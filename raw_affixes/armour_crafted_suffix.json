@@ -1,0 +1,1773 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:DexMasterColdResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Penguin"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterColdResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterColdResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterColdResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Yeti"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterColdResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterColdResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterCritMultCraftedi1": {
+            "printouts": {
+                "Has name": [
+                    "of Anger"
+                ],
+                "Has stat text": [
+                    "+(17-21)% to Global [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterCritMultCraftedi1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterCritMultCraftedi1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterCritMultiCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Rage"
+                ],
+                "Has stat text": [
+                    "+(22-27)% to Global [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterCritMultiCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterCritMultiCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterDexterityCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Lynx"
+                ],
+                "Has stat text": [
+                    "+(20-25) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterDexterityCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterDexterityCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterDexterityCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Fox"
+                ],
+                "Has stat text": [
+                    "+(26-30) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterDexterityCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterDexterityCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterFireResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Drake"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterFireResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterFireResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterFireResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Kiln"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterFireResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterFireResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterFlaskDurationCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Savouring"
+                ],
+                "Has stat text": [
+                    "(5-15)% increased Flask effect duration"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterFlaskDurationCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterFlaskDurationCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterGlobalAttackSpeedCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Ease"
+                ],
+                "Has stat text": [
+                    "(7-12)% increased [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterGlobalAttackSpeedCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterGlobalAttackSpeedCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterGlobalCritChanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Stinging"
+                ],
+                "Has stat text": [
+                    "(17-21)% increased Global [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterGlobalCritChanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterGlobalCritChanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterGlobalCritChanceCrafted2~": {
+            "printouts": {
+                "Has name": [
+                    "of Piercing"
+                ],
+                "Has stat text": [
+                    "(22-27)% increased Global [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterGlobalCritChanceCrafted2~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterGlobalCritChanceCrafted2~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLightningResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Storm"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLightningResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLightningResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLightningResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Thunderhead"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLightningResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLightningResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLocalAttackSpeedCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Ease"
+                ],
+                "Has stat text": [
+                    "(7-12)% increased [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLocalAttackSpeedCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLocalAttackSpeedCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLocalCritChanceCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Stinging"
+                ],
+                "Has stat text": [
+                    "(17-21)% increased [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLocalCritChanceCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLocalCritChanceCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLocalCritChanceCrafted2~": {
+            "printouts": {
+                "Has name": [
+                    "of Piercing"
+                ],
+                "Has stat text": [
+                    "(22-27)% increased [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLocalCritChanceCrafted2~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLocalCritChanceCrafted2~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterProjectileSpeedCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Flight"
+                ],
+                "Has stat text": [
+                    "(10-30)% increased Projectile Speed"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterProjectileSpeedCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterProjectileSpeedCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterTrapAndMineDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Saboteur"
+                ],
+                "Has stat text": [
+                    "(10-20)% increased [[Trap]] Damage<br>(10-20)% increased [[Mine]] Damage"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterTrapAndMineDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterTrapAndMineDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterTrapAndMineSpeedCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Vandal"
+                ],
+                "Has stat text": [
+                    "(6-12)% increased [[Trap]] Throwing Speed<br>(6-12)% increased [[Mine]] Laying Speed"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterTrapAndMineSpeedCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterTrapAndMineSpeedCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldPercentOffSlot": {
+            "printouts": {
+                "Has name": [
+                    "of Fearlessness"
+                ],
+                "Has stat text": [
+                    "(5-20)% increased maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldPercentOffSlot",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldPercentOffSlot",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterCastSpeedCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Nimbleness"
+                ],
+                "Has stat text": [
+                    "(9-11)% increased [[Cast Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterCastSpeedCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterCastSpeedCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterCastSpeedShieldCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Talent"
+                ],
+                "Has stat text": [
+                    "(4-8)% increased [[Cast Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterCastSpeedShieldCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterCastSpeedShieldCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterChillAndFreezeDurationCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Permafreeze"
+                ],
+                "Has stat text": [
+                    "(10-20)% increased [[Freeze]] Duration on Enemies<br>(10-20)% increased Chill Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterChillAndFreezeDurationCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterChillAndFreezeDurationCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIgniteDurationCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Wildfire"
+                ],
+                "Has stat text": [
+                    "(10-20)% increased [[Ignite]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIgniteDurationCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIgniteDurationCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedColdDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Sleet"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedColdDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedColdDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedColdDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Ice"
+                ],
+                "Has stat text": [
+                    "(15-19)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedColdDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedColdDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedFireDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Coals"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedFireDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedFireDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedFireDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Cinders"
+                ],
+                "Has stat text": [
+                    "(15-19)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedFireDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedFireDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedLightningDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Static"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedLightningDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedLightningDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedLightningDamageCrafted2~": {
+            "printouts": {
+                "Has name": [
+                    "of Electricity"
+                ],
+                "Has stat text": [
+                    "(15-19)% increased [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedLightningDamageCrafted2~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedLightningDamageCrafted2~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIntelligenceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Student"
+                ],
+                "Has stat text": [
+                    "+(20-25) to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIntelligenceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIntelligenceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIntelligenceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Prodigy"
+                ],
+                "Has stat text": [
+                    "+(26-30) to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIntelligenceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIntelligenceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterItemGenerationCannotRollAttackAffixes": {
+            "printouts": {
+                "Has name": [
+                    "of Spellcraft"
+                ],
+                "Has stat text": [
+                    "Cannot roll [[Attack]] Mods"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterItemGenerationCannotRollAttackAffixes",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterItemGenerationCannotRollAttackAffixes",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterManaRegenCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Joy"
+                ],
+                "Has stat text": [
+                    "(25-34)% increased [[Mana]] Regeneration Rate"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterManaRegenCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterManaRegenCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterManaRegenCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Elation"
+                ],
+                "Has stat text": [
+                    "(35-44)% increased [[Mana]] Regeneration Rate"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterManaRegenCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterManaRegenCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterShockDurationCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Charging"
+                ],
+                "Has stat text": [
+                    "(10-20)% increased [[Shock]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterShockDurationCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterShockDurationCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterSpellCritCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Havoc"
+                ],
+                "Has stat text": [
+                    "(30-49)% increased [[Critical Strike Chance]] for [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterSpellCritCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterSpellCritCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterSpellCritCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Disaster"
+                ],
+                "Has stat text": [
+                    "(50-69)% increased [[Critical Strike Chance]] for [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterSpellCritCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterSpellCritCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterChillAvoidanceChanceCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Warmblood"
+                ],
+                "Has stat text": [
+                    "(20-25)% chance to Avoid being Chilled"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterChillAvoidanceChanceCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterChillAvoidanceChanceCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterDegenerationDamageTakenCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Suturing"
+                ],
+                "Has stat text": [
+                    "5% reduced Damage taken from Damage Over Time"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterDegenerationDamageTakenCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterDegenerationDamageTakenCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterFreezeAvoidanceChanceCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Insulation"
+                ],
+                "Has stat text": [
+                    "(20-25)% chance to Avoid being [[Freeze|Frozen]]"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterFreezeAvoidanceChanceCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterFreezeAvoidanceChanceCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterIgniteAvoidanceChanceCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Clay"
+                ],
+                "Has stat text": [
+                    "(20-25)% chance to Avoid being Ignited"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterIgniteAvoidanceChanceCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterIgniteAvoidanceChanceCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterKnockbackAvoidanceChanceCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Stability"
+                ],
+                "Has stat text": [
+                    "50% chance to Avoid being Knocked Back"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterKnockbackAvoidanceChanceCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterKnockbackAvoidanceChanceCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterLevel28Crafting": {
+            "printouts": {
+                "Has name": [
+                    "of Dueling"
+                ],
+                "Has stat text": [
+                    "Cannot roll Mods with Required [[Level]] above 28"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterLevel28Crafting",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterLevel28Crafting",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterShockAvoidanceChanceCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Grounding"
+                ],
+                "Has stat text": [
+                    "(20-25)% chance to Avoid being [[Shock|Shocked]]"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterShockAvoidanceChanceCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterShockAvoidanceChanceCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterStunAvoidanceChanceCrafted~~": {
+            "printouts": {
+                "Has name": [
+                    "of Hardiness"
+                ],
+                "Has stat text": [
+                    "(25-35)% chance to Avoid being Stunned"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterStunAvoidanceChanceCrafted~~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterStunAvoidanceChanceCrafted~~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAccuracyCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Accuracy"
+                ],
+                "Has stat text": [
+                    "+(91-120) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAccuracyCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAccuracyCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAccuracyCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Precision"
+                ],
+                "Has stat text": [
+                    "+(121-150) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAccuracyCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAccuracyCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAttackSpeedCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Mastery"
+                ],
+                "Has stat text": [
+                    "(8-11)% increased [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAttackSpeedCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAttackSpeedCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAttackSpeedCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Renown"
+                ],
+                "Has stat text": [
+                    "(12-15)% increased [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAttackSpeedCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAttackSpeedCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterColdResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Penguin"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterColdResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterColdResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterColdResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Yeti"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterColdResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterColdResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterCritMultCraftedi1": {
+            "printouts": {
+                "Has name": [
+                    "of Anger"
+                ],
+                "Has stat text": [
+                    "+(17-21)% to Global [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterCritMultCraftedi1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterCritMultCraftedi1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterCritMultiCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Rage"
+                ],
+                "Has stat text": [
+                    "+(22-27)% to Global [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterCritMultiCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterCritMultiCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterDexterityCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Lynx"
+                ],
+                "Has stat text": [
+                    "+(20-25) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterDexterityCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterDexterityCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterDexterityCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Fox"
+                ],
+                "Has stat text": [
+                    "+(26-30) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterDexterityCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterDexterityCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterFireResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Drake"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterFireResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterFireResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterFireResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Kiln"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterFireResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterFireResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterItemGenerationCannotRollCasterAffixes": {
+            "printouts": {
+                "Has name": [
+                    "of Weaponcraft"
+                ],
+                "Has stat text": [
+                    "Cannot roll Caster Mods"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterItemGenerationCannotRollCasterAffixes",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterItemGenerationCannotRollCasterAffixes",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLifeOnHitCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Rejuvenation"
+                ],
+                "Has stat text": [
+                    "+(2-3) [[Life]] gained for each Enemy [[Hit|hit]] by your [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLifeOnHitCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLifeOnHitCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLightningResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Storm"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLightningResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLightningResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLightningResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Thunderhead"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLightningResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLightningResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLocalCritChanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Stinging"
+                ],
+                "Has stat text": [
+                    "(17-21)% increased [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLocalCritChanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLocalCritChanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLocalCritChanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Piercing"
+                ],
+                "Has stat text": [
+                    "(22-27)% increased [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLocalCritChanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLocalCritChanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterStrengthCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Wrestler"
+                ],
+                "Has stat text": [
+                    "+(20-25) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterStrengthCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterStrengthCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterStrengthCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Bear"
+                ],
+                "Has stat text": [
+                    "+(26-30) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterStrengthCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterStrengthCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterStunDurationCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Stunning"
+                ],
+                "Has stat text": [
+                    "(23-28)% increased Stun Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterStunDurationCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterStunDurationCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterStunThresholdCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Boxer"
+                ],
+                "Has stat text": [
+                    "(11-12)% reduced Enemy Stun Threshold with this Weapon"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterStunThresholdCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterStunThresholdCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterWeaponRangeCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Reach"
+                ],
+                "Has stat text": [
+                    "+(1-2) to Weapon range"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterWeaponRangeCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterWeaponRangeCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterAccuracyCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Accuracy"
+                ],
+                "Has stat text": [
+                    "+(91-120) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterAccuracyCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterAccuracyCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterAccuracyCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Precision"
+                ],
+                "Has stat text": [
+                    "+(121-150) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterAccuracyCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterAccuracyCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterAllAttributesCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Sky"
+                ],
+                "Has stat text": [
+                    "+(6-11) to all Attributes"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterAllAttributesCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterAllAttributesCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterAllResistancesCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Prism"
+                ],
+                "Has stat text": [
+                    "+(7-10)% to all [[Elemental Resistance|Elemental Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterAllResistancesCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterAllResistancesCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterColdAndLightningResistCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Thundersnow"
+                ],
+                "Has stat text": [
+                    "+(8-13)% to Cold and [[Lightning Resistance|Lightning Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterColdAndLightningResistCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterColdAndLightningResistCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterColdResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Penguin"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterColdResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterColdResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterColdResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Yeti"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterColdResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterColdResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCraftedArmourRating": {
+            "printouts": {
+                "Has name": [
+                    "of Reinforcement"
+                ],
+                "Has stat text": [
+                    "(5-20)% increased [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCraftedArmourRating",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCraftedArmourRating",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCraftedEvasionRating": {
+            "printouts": {
+                "Has name": [
+                    "of Blurring"
+                ],
+                "Has stat text": [
+                    "(5-20)% increased [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCraftedEvasionRating",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCraftedEvasionRating",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCriticalStrikeChanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Needling"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased Global [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCriticalStrikeChanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCriticalStrikeChanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCriticalStrikeChanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Puncturing"
+                ],
+                "Has stat text": [
+                    "(27-32)% increased Global [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCriticalStrikeChanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCriticalStrikeChanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCriticalStrikeChanceCrafted2ReducedValue": {
+            "printouts": {
+                "Has name": [
+                    "of Puncturing"
+                ],
+                "Has stat text": [
+                    "(22-27)% increased Global [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCriticalStrikeChanceCrafted2ReducedValue",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCriticalStrikeChanceCrafted2ReducedValue",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterDexterityCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Lynx"
+                ],
+                "Has stat text": [
+                    "+(16-20) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterDexterityCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterDexterityCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterDexterityCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Fox"
+                ],
+                "Has stat text": [
+                    "+(21-25) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterDexterityCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterDexterityCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterFireAndColdResistCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Chimaera"
+                ],
+                "Has stat text": [
+                    "+(8-13)% to Fire and [[Cold Resistance|Cold Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterFireAndColdResistCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterFireAndColdResistCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterFireAndLightningResistCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Ashcloud"
+                ],
+                "Has stat text": [
+                    "+(8-13)% to Fire and [[Lightning Resistance|Lightning Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterFireAndLightningResistCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterFireAndLightningResistCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterFireResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Drake"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterFireResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterFireResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterFireResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Kiln"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterFireResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterFireResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterIntelligenceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Student"
+                ],
+                "Has stat text": [
+                    "+(16-20) to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterIntelligenceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterIntelligenceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterIntelligenceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Prodigy"
+                ],
+                "Has stat text": [
+                    "+(21-25) to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterIntelligenceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterIntelligenceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterItemGenerationCanHaveMultipleCraftedMods": {
+            "printouts": {
+                "Has name": [
+                    "of Crafting"
+                ],
+                "Has stat text": [
+                    "Can have multiple Crafted Mods"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterItemRarityCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Raiding"
+                ],
+                "Has stat text": [
+                    "(13-17)% increased Rarity of Items found"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterItemRarityCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterItemRarityCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterLifeOnHitCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Rejuvenation"
+                ],
+                "Has stat text": [
+                    "+(1-2) [[Life]] gained for each Enemy [[Hit|hit]] by your [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterLifeOnHitCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterLifeOnHitCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterLightningResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Storm"
+                ],
+                "Has stat text": [
+                    "+(16-20)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterLightningResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterLightningResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterLightningResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Thunderhead"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterLightningResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterLightningResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterManaRegenCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Joy"
+                ],
+                "Has stat text": [
+                    "(25-34)% increased [[Mana]] Regeneration Rate"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterManaRegenCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterManaRegenCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterStrengthCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Wrestler"
+                ],
+                "Has stat text": [
+                    "+(16-20) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterStrengthCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterStrengthCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterStrengthCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Bear"
+                ],
+                "Has stat text": [
+                    "+(21-25) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterStrengthCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterStrengthCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterAllAttributesCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Meteor"
+                ],
+                "Has stat text": [
+                    "+(11-14) to all Attributes"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterAllAttributesCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterAllAttributesCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterAttackSpeedCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Ease"
+                ],
+                "Has stat text": [
+                    "(9-12)% increased [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterAttackSpeedCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterAttackSpeedCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterBlockCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of Intercepting"
+                ],
+                "Has stat text": [
+                    "(1-2)% additional [[Block]] Chance"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterBlockCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterBlockCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterBlockCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of Intercepting"
+                ],
+                "Has stat text": [
+                    "+(2-3)% Chance to [[Block]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterBlockCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterBlockCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterColdAndLightningResistCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Thundersnow"
+                ],
+                "Has stat text": [
+                    "+(8-13)% to Cold and [[Lightning Resistance|Lightning Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterColdAndLightningResistCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterColdAndLightningResistCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterColdResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Penguin"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterColdResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterColdResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterColdResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Yeti"
+                ],
+                "Has stat text": [
+                    "+(26-30)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterColdResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterColdResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterDexCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Lynx"
+                ],
+                "Has stat text": [
+                    "+(20-25) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterDexCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterDexCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterDexCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Fox"
+                ],
+                "Has stat text": [
+                    "+(26-30) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterDexCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterDexCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFireAndColdResistCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Chimaera"
+                ],
+                "Has stat text": [
+                    "+(8-13)% to Fire and [[Cold Resistance|Cold Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFireAndColdResistCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFireAndColdResistCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFireAndLightningResistCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of the Ashcloud"
+                ],
+                "Has stat text": [
+                    "+(8-13)% to Fire and [[Lightning Resistance|Lightning Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFireAndLightningResistCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFireAndLightningResistCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFireResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Drake"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFireResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFireResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFireResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Kiln"
+                ],
+                "Has stat text": [
+                    "+(26-30)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFireResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFireResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterItemGenerationCannotChangePrefixes": {
+            "printouts": {
+                "Has name": [
+                    "of Prefixes"
+                ],
+                "Has stat text": [
+                    "Prefixes Cannot Be Changed"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterItemGenerationCannotChangePrefixes",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterItemGenerationCannotChangePrefixes",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterLightningResistanceCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Storm"
+                ],
+                "Has stat text": [
+                    "+(21-25)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterLightningResistanceCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterLightningResistanceCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterLightningResistanceCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Thunderhead"
+                ],
+                "Has stat text": [
+                    "+(26-30)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterLightningResistanceCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterLightningResistanceCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterStrengthCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "of the Wrestler"
+                ],
+                "Has stat text": [
+                    "+(20-25) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterStrengthCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterStrengthCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterStrengthCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "of the Bear"
+                ],
+                "Has stat text": [
+                    "+(26-30) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterStrengthCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterStrengthCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 116
+}

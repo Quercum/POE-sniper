@@ -1,0 +1,1737 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:ArmourEnergyShieldJewel": {
+            "printouts": {
+                "Has name": [
+                    "Paladin's"
+                ],
+                "Has stat text": [
+                    "(6-12)% increased [[Armour]]<br>(2-4)% increased maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:ArmourEnergyShieldJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ArmourEnergyShieldJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ArmourEvasionJewel": {
+            "printouts": {
+                "Has name": [
+                    "Fighter's"
+                ],
+                "Has stat text": [
+                    "(6-12)% increased [[Armour]]<br>(6-12)% increased [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:ArmourEvasionJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ArmourEvasionJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AxeAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Cleaving"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Axe|Axes]]"
+                ]
+            },
+            "fulltext": "Modifier:AxeAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AxeAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AxeDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Sinister"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Axe|Axes]]"
+                ]
+            },
+            "fulltext": "Modifier:AxeDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AxeDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BlockDualWieldingJewel": {
+            "printouts": {
+                "Has name": [
+                    "Parrying"
+                ],
+                "Has stat text": [
+                    "1% additional [[Block]] Chance while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:BlockDualWieldingJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BlockDualWieldingJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BlockShieldJewel": {
+            "printouts": {
+                "Has name": [
+                    "Shielding"
+                ],
+                "Has stat text": [
+                    "+1% Chance to [[Block]] with [[Shield|Shields]]"
+                ]
+            },
+            "fulltext": "Modifier:BlockShieldJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BlockShieldJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BlockStaffJewel": {
+            "printouts": {
+                "Has name": [
+                    "Deflecting"
+                ],
+                "Has stat text": [
+                    "1% additional Chance to [[Block]] with [[Staff|Staves]]"
+                ]
+            },
+            "fulltext": "Modifier:BlockStaffJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BlockStaffJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BowAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Volleying"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Bow|Bows]]"
+                ]
+            },
+            "fulltext": "Modifier:BowAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BowAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BowDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Fierce"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Bow|Bows]]"
+                ]
+            },
+            "fulltext": "Modifier:BowDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BowDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Obliterating"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with Chaos [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ChaosCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosCritMultiplier": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with Chaos [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ChaosCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Chaotic"
+                ],
+                "Has stat text": [
+                    "(9-13)% increased [[Chaos Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ChaosDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosGemCastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Withering"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Cast Speed]] with Chaos [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ChaosGemCastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosGemCastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ClawAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Ripping"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Claw|Claws]]"
+                ]
+            },
+            "fulltext": "Modifier:ClawAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ClawAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ClawDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Savage"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Claw|Claws]]"
+                ]
+            },
+            "fulltext": "Modifier:ClawDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ClawDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Avalanching"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased [[Critical Strike Chance]] with Cold [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "Arctic"
+                ],
+                "Has stat text": [
+                    "+(15-18)% to [[Critical Strike Multiplier]] with Cold [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Chilling"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdGemCastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Cryomantic"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Cast Speed]] with Cold [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdGemCastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdGemCastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithAxeJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Biting FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Axe|Axes]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithAxeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithAxeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithBowJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Sniper FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Bow|Bows]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithBowJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithBowJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithClawJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Eagle FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Claw|Claws]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithClawJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithClawJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithDaggerJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Needling FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Dagger|Daggers]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithDaggerJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithDaggerJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithMaceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Striking FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Mace|Maces]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithMaceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithMaceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithStaffJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Tyranny FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Staff|Staves]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithStaffJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithStaffJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithSwordJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Stinging FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Sword|Swords]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithSwordJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithSwordJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritChanceWithWandJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Divination FIX ME"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Axe|Wands]]"
+                ]
+            },
+            "fulltext": "Modifier:CritChanceWithWandJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritChanceWithWandJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithAxeJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Execution FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Axe|Axes]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithAxeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithAxeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithBowJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Hunter FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Bow|Bows]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithBowJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithBowJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithClawJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Bear FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Claw|Claws]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithClawJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithClawJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithDaggerJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Assassination FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Dagger|Daggers]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithDaggerJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithDaggerJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithMaceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Crushing FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Mace|Maces]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithMaceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithMaceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithStaffJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Trauma FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Staff|Staves]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithStaffJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithStaffJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithSwordJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Severing FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Sword|Swords]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithSwordJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithSwordJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CritMultiplierWithWandJewel~": {
+            "printouts": {
+                "Has name": [
+                    "of Evocation FIX ME"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Axe|Wands]]"
+                ]
+            },
+            "fulltext": "Modifier:CritMultiplierWithWandJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CritMultiplierWithWandJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DaggerAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Slicing"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Dagger|Daggers]]"
+                ]
+            },
+            "fulltext": "Modifier:DaggerAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DaggerAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DaggerDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Lethal"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Dagger|Daggers]]"
+                ]
+            },
+            "fulltext": "Modifier:DaggerDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DaggerDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldingAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Harmonic"
+                ],
+                "Has stat text": [
+                    "(4-6)% increased [[Attack Speed]] while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldingAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldingAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldingCastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Resonant"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Cast Speed]] while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldingCastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldingCastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldingCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Technical"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased Weapon [[Critical Strike Chance]] while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldingCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldingCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldingCritMultiplierJewel": {
+            "printouts": {
+                "Has name": [
+                    "Puncturing"
+                ],
+                "Has stat text": [
+                    "+(15-18)% to [[Critical Strike Multiplier]] while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldingCritMultiplierJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldingCritMultiplierJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldingMeleeDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Gladiator's"
+                ],
+                "Has stat text": [
+                    "(12-14)% increased Physical Weapon Damage while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldingMeleeDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldingMeleeDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldingSpellBlockForJewel": {
+            "printouts": {
+                "Has name": [
+                    "Dissipating"
+                ],
+                "Has stat text": [
+                    "1% additional Chance to [[Block]] [[Spell|Spells]] while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldingSpellBlockForJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldingSpellBlockForJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldingSpellDamageJewel~": {
+            "printouts": {
+                "Has name": [
+                    "Sorcerer's"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Spell Damage]] while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldingSpellDamageJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldingSpellDamageJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldAndManaJewel": {
+            "printouts": {
+                "Has name": [
+                    "Wise"
+                ],
+                "Has stat text": [
+                    "(2-4)% increased maximum [[Energy Shield]]<br>(4-6)% increased maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldAndManaJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldAndManaJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldDelayJewel": {
+            "printouts": {
+                "Has name": [
+                    "Serene"
+                ],
+                "Has stat text": [
+                    "(4-6)% faster start of [[Energy Shield]] Recharge"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldDelayJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldDelayJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldJewel": {
+            "printouts": {
+                "Has name": [
+                    "Shimmering"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldRateJewel": {
+            "printouts": {
+                "Has name": [
+                    "Fevered"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Energy Shield]] Recharge Rate"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldRateJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldRateJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EvasionEnergyShieldJewel": {
+            "printouts": {
+                "Has name": [
+                    "Rogue's"
+                ],
+                "Has stat text": [
+                    "(6-12)% increased [[Evasion Rating]]<br>(2-4)% increased maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:EvasionEnergyShieldJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EvasionEnergyShieldJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Incinerating"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased [[Critical Strike Chance]] with Fire [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:FireCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "Infernal"
+                ],
+                "Has stat text": [
+                    "+(15-18)% to [[Critical Strike Multiplier]] with Fire [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:FireCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Flaming"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireGemCastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Pyromantic"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Cast Speed]] with Fire [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:FireGemCastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireGemCastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedArmourJewel": {
+            "printouts": {
+                "Has name": [
+                    "Armoured"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedArmourJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedArmourJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedDefensesJewel": {
+            "printouts": {
+                "Has name": [
+                    "Defensive"
+                ],
+                "Has stat text": [
+                    "(4-6)% increased Global Defences"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedDefensesJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedDefensesJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedEnergyShieldJewel~": {
+            "printouts": {
+                "Has name": [
+                    "Glowing"
+                ],
+                "Has stat text": [
+                    "+(8-12) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedEnergyShieldJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedEnergyShieldJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedEvasionJewel": {
+            "printouts": {
+                "Has name": [
+                    "Evasive"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedEvasionJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedEvasionJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedLifeAndManaJewel": {
+            "printouts": {
+                "Has name": [
+                    "Determined"
+                ],
+                "Has stat text": [
+                    "+(4-6) to maximum [[Life]]<br>+(4-6) to maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedLifeAndManaJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedLifeAndManaJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedLifeJewel": {
+            "printouts": {
+                "Has name": [
+                    "Healthy"
+                ],
+                "Has stat text": [
+                    "+(8-12) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedLifeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedLifeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedManaJewel": {
+            "printouts": {
+                "Has name": [
+                    "Learned"
+                ],
+                "Has stat text": [
+                    "+(8-12) to maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedManaJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedManaJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedManaRegenJewel": {
+            "printouts": {
+                "Has name": [
+                    "Energetic"
+                ],
+                "Has stat text": [
+                    "(12-15)% increased [[Mana]] Regeneration Rate"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedManaRegenJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedManaRegenJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeAndEnergyShieldJewel": {
+            "printouts": {
+                "Has name": [
+                    "Faithful"
+                ],
+                "Has stat text": [
+                    "(2-4)% increased maximum [[Life]]<br>(2-4)% increased maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeAndEnergyShieldJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeAndEnergyShieldJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeLeechPermyriadJewel": {
+            "printouts": {
+                "Has name": [
+                    "Hungering"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeLeechPermyriadJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeLeechPermyriadJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Thundering"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased [[Critical Strike Chance]] with Lightning [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "Surging"
+                ],
+                "Has stat text": [
+                    "+(15-18)% to [[Critical Strike Multiplier]] with Lightning [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Humming"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningGemCastSpeedJewel~": {
+            "printouts": {
+                "Has name": [
+                    "Electromantic"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Cast Speed]] with Lightning [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningGemCastSpeedJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningGemCastSpeedJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MaceAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Beating"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Mace|Maces]]"
+                ]
+            },
+            "fulltext": "Modifier:MaceAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MaceAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MaceDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Brutal"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Mace|Maces]]"
+                ]
+            },
+            "fulltext": "Modifier:MaceDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MaceDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaLeechPermyriadJewel": {
+            "printouts": {
+                "Has name": [
+                    "Thirsting"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaLeechPermyriadJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaLeechPermyriadJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MineCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Crippling"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Mine|Mines]]"
+                ]
+            },
+            "fulltext": "Modifier:MineCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MineCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MineCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "Incapacitating"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Mine|Mines]]"
+                ]
+            },
+            "fulltext": "Modifier:MineCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MineCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MineDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Sabotage"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Mine]] Damage"
+                ]
+            },
+            "fulltext": "Modifier:MineDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MineDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MineLaySpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Arming"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Mine]] Laying Speed"
+                ]
+            },
+            "fulltext": "Modifier:MineLaySpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MineLaySpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Leadership"
+                ],
+                "Has stat text": [
+                    "[[Minion|Minions]] deal (14-16)% increased Damage"
+                ]
+            },
+            "fulltext": "Modifier:MinionDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionLifeJewel": {
+            "printouts": {
+                "Has name": [
+                    "Master's"
+                ],
+                "Has stat text": [
+                    "[[Minion|Minions]] have (8-12)% increased maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:MinionLifeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionLifeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:OneHandCritMultiplierJewel~": {
+            "printouts": {
+                "Has name": [
+                    "Piercing"
+                ],
+                "Has stat text": [
+                    "+(15-18)% to [[Critical Strike Multiplier]] with One Handed Melee Weapons"
+                ]
+            },
+            "fulltext": "Modifier:OneHandCritMultiplierJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:OneHandCritMultiplierJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:OneHandedCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Harming"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased [[Critical Strike Chance]] with One Handed Melee Weapons"
+                ]
+            },
+            "fulltext": "Modifier:OneHandedCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:OneHandedCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:OneHandedMeleeAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Bandit's"
+                ],
+                "Has stat text": [
+                    "(4-6)% increased [[Attack Speed]] with One Handed Melee Weapons"
+                ]
+            },
+            "fulltext": "Modifier:OneHandedMeleeAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:OneHandedMeleeAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:OneHandedMeleeDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Soldier's"
+                ],
+                "Has stat text": [
+                    "(12-14)% increased [[Physical Damage]] with One Handed Melee Weapons"
+                ]
+            },
+            "fulltext": "Modifier:OneHandedMeleeDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:OneHandedMeleeDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PercentIncreasedLifeAndManaJewel": {
+            "printouts": {
+                "Has name": [
+                    "Passionate"
+                ],
+                "Has stat text": [
+                    "(2-4)% increased maximum [[Life]]<br>(4-6)% increased maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:PercentIncreasedLifeAndManaJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PercentIncreasedLifeAndManaJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PercentIncreasedLifeJewel": {
+            "printouts": {
+                "Has name": [
+                    "Vivid"
+                ],
+                "Has stat text": [
+                    "(5-7)% increased maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:PercentIncreasedLifeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PercentIncreasedLifeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PercentIncreasedManaJewel": {
+            "printouts": {
+                "Has name": [
+                    "Enlightened"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:PercentIncreasedManaJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PercentIncreasedManaJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PhysicalDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Sharpened"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:PhysicalDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PhysicalDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PhysicalDamageWhileHoldingAShield": {
+            "printouts": {
+                "Has name": [
+                    "Flanking"
+                ],
+                "Has stat text": [
+                    "(12-14)% increased Melee [[Physical Damage]] while holding a [[Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:PhysicalDamageWhileHoldingAShield",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PhysicalDamageWhileHoldingAShield",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShieldAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Charging"
+                ],
+                "Has stat text": [
+                    "(4-6)% increased [[Attack Speed]] while holding a [[Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:ShieldAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShieldAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShieldCastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Warding"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Cast Speed]] while holding a [[Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:ShieldCastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShieldCastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShieldCritChanceJewel": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-14)% increased [[Critical Strike Chance]] while holding a [[Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:ShieldCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShieldCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShieldCritMultiplierJewel": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(6-8)% to Melee [[Critical Strike Multiplier]] while holding a [[Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:ShieldCritMultiplierJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShieldCritMultiplierJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShieldSpellBlockJewel": {
+            "printouts": {
+                "Has name": [
+                    "Thwarting"
+                ],
+                "Has stat text": [
+                    "1% additional Chance to [[Block]] [[Spell|Spells]] with [[Shield|Shields]]"
+                ]
+            },
+            "fulltext": "Modifier:ShieldSpellBlockJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShieldSpellBlockJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShieldSpellDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Battlemage's"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Spell Damage]] while holding a [[Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:ShieldSpellDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShieldSpellDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellLifeLeechPermyriadJewel": {
+            "printouts": {
+                "Has name": [
+                    "Transfusing"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Spell Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellLifeLeechPermyriadJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellLifeLeechPermyriadJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellManaLeechPermyriadJewel": {
+            "printouts": {
+                "Has name": [
+                    "Siphoning"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Spell Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellManaLeechPermyriadJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellManaLeechPermyriadJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StaffAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Blunt"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Staff|Staves]]"
+                ]
+            },
+            "fulltext": "Modifier:StaffAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StaffAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StaffCastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Wright's"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Cast Speed]] while wielding a [[Staff]]"
+                ]
+            },
+            "fulltext": "Modifier:StaffCastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StaffCastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StaffDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Judging"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Staff|Staves]]"
+                ]
+            },
+            "fulltext": "Modifier:StaffDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StaffDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StaffSpellBlockJewel": {
+            "printouts": {
+                "Has name": [
+                    "Halting"
+                ],
+                "Has stat text": [
+                    "1% additional Chance to [[Block]] [[Spell|Spells]] with [[Staff|Staves]]"
+                ]
+            },
+            "fulltext": "Modifier:StaffSpellBlockJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StaffSpellBlockJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StaffSpellDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Wizard's"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Spell Damage]] while wielding a [[Staff]]"
+                ]
+            },
+            "fulltext": "Modifier:StaffSpellDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StaffSpellDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SwordAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Fencing"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Sword|Swords]]"
+                ]
+            },
+            "fulltext": "Modifier:SwordAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SwordAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SwordDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Vicious"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Sword|Swords]]"
+                ]
+            },
+            "fulltext": "Modifier:SwordDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SwordDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TotemDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Shaman's"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Totem]] Damage"
+                ]
+            },
+            "fulltext": "Modifier:TotemDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TotemDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TotemLifeJewel": {
+            "printouts": {
+                "Has name": [
+                    "Carved"
+                ],
+                "Has stat text": [
+                    "(8-12)% increased [[Totem]] [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:TotemLifeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TotemLifeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TrapCritChanceJewel~": {
+            "printouts": {
+                "Has name": [
+                    "Inescapable"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Critical Strike Chance]] with [[Trap|Traps]]"
+                ]
+            },
+            "fulltext": "Modifier:TrapCritChanceJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TrapCritChanceJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TrapCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "Debilitating"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to [[Critical Strike Multiplier]] with [[Trap|Traps]]"
+                ]
+            },
+            "fulltext": "Modifier:TrapCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TrapCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TrapDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Trapping"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Trap]] Damage"
+                ]
+            },
+            "fulltext": "Modifier:TrapDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TrapDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TrapThrowSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Honed"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Trap]] Throwing Speed"
+                ]
+            },
+            "fulltext": "Modifier:TrapThrowSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TrapThrowSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TwoHandCritMultiplierJewel": {
+            "printouts": {
+                "Has name": [
+                    "Rupturing"
+                ],
+                "Has stat text": [
+                    "+(15-18)% to [[Critical Strike Multiplier]] with [[Two Handed Melee Weapons]]"
+                ]
+            },
+            "fulltext": "Modifier:TwoHandCritMultiplierJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TwoHandCritMultiplierJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TwoHandedCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "Sundering"
+                ],
+                "Has stat text": [
+                    "(14-18)% increased [[Critical Strike Chance]] with [[Two Handed Melee Weapons]]"
+                ]
+            },
+            "fulltext": "Modifier:TwoHandedCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TwoHandedCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TwoHandedMeleeAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Warrior's"
+                ],
+                "Has stat text": [
+                    "(4-6)% increased [[Attack Speed]] with [[Two Handed Melee Weapons]]"
+                ]
+            },
+            "fulltext": "Modifier:TwoHandedMeleeAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TwoHandedMeleeAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TwoHandedMeleeDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Champion's"
+                ],
+                "Has stat text": [
+                    "(12-14)% increased [[Physical Damage]] with [[Two Handed Melee Weapons]]"
+                ]
+            },
+            "fulltext": "Modifier:TwoHandedMeleeDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TwoHandedMeleeDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:UnarmedAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Furious"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] while Unarmed"
+                ]
+            },
+            "fulltext": "Modifier:UnarmedAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:UnarmedAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:UnarmedMeleeDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Brawling"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased Melee [[Physical Damage]] while Unarmed"
+                ]
+            },
+            "fulltext": "Modifier:UnarmedMeleeDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:UnarmedMeleeDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:WandAttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "Jinxing"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased [[Attack Speed]] with [[Axe|Wands]]"
+                ]
+            },
+            "fulltext": "Modifier:WandAttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:WandAttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:WandDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "Cruel"
+                ],
+                "Has stat text": [
+                    "(14-16)% increased [[Physical Damage]] with [[Axe|Wands]]"
+                ]
+            },
+            "fulltext": "Modifier:WandDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:WandDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 114
+}

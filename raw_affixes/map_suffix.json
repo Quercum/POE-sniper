@@ -1,0 +1,1503 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:CorruptedSideAreaElementalEquilibrium": {
+            "printouts": {
+                "Has name": [
+                    "of Balance"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>Players have Elemental Equilibrium"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaElementalEquilibrium",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaElementalEquilibrium",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptedSideAreaEnduranceCharges": {
+            "printouts": {
+                "Has name": [
+                    "of Endurance"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>Monsters gain 1 [[Endurance Charge]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaEnduranceCharges",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaEnduranceCharges",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptedSideAreaFracturing": {
+            "printouts": {
+                "Has name": [
+                    "of Fracturing"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>Monsters Fracture"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaFracturing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaFracturing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptedSideAreaFrenzyCharges": {
+            "printouts": {
+                "Has name": [
+                    "of Frenzy"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>Monsters gain 1 [[Frenzy Charge]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaFrenzyCharges",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaFrenzyCharges",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptedSideAreaMaximumResists": {
+            "printouts": {
+                "Has name": [
+                    "of Exposure"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>-(12-8)% maximum Player Resistances"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaMaximumResists",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaMaximumResists",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptedSideAreaPoisoning": {
+            "printouts": {
+                "Has name": [
+                    "of Venom"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>Monsters [[Poison]] on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaPoisoning",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaPoisoning",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptedSideAreaPowerCharges": {
+            "printouts": {
+                "Has name": [
+                    "of Power"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>Monsters gain 1 [[Power Charge]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaPowerCharges",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaPowerCharges",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptedSideAreaReducedRegen": {
+            "printouts": {
+                "Has name": [
+                    "of Smothering"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>Players have 20% less Recovery Rate of [[Life]] and [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:CorruptedSideAreaReducedRegen",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptedSideAreaReducedRegen",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapBloodlinesModOnMagicsMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Bloodlines"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Magic Monster Packs each have a Bloodline Mod<br>(20-30)% more Magic Monsters"
+                ]
+            },
+            "fulltext": "Modifier:MapBloodlinesModOnMagicsMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapBloodlinesModOnMagicsMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapBurningGround": {
+            "printouts": {
+                "Has name": [
+                    "of Flames"
+                ],
+                "Has stat text": [
+                    "11% increased Quantity of Items found in this Area<br>Area has patches of burning ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapBurningGround",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapBurningGround",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapBurningGround1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Flames"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of burning ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapBurningGround1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapBurningGround1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapBurningGround2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Flames"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of burning ground<br>24 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 16 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapBurningGround2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapBurningGround2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapBurningGround3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Flames"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of burning ground<br>28 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 18 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapBurningGround3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapBurningGround3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapChilledGroundSuffix": {
+            "printouts": {
+                "Has name": [
+                    "of Ice"
+                ],
+                "Has stat text": [
+                    "11% increased Quantity of Items found in this Area<br>Area has patches of chilled ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapChilledGroundSuffix",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapChilledGroundSuffix",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapChilledGroundSuffix1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Ice"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of chilled ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapChilledGroundSuffix1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapChilledGroundSuffix1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapChilledGroundSuffix2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Ice"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of chilled ground<br>24 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 16 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapChilledGroundSuffix2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapChilledGroundSuffix2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapChilledGroundSuffix3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Ice"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of chilled ground<br>28 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 18 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapChilledGroundSuffix3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapChilledGroundSuffix3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapDesecratedGround": {
+            "printouts": {
+                "Has name": [
+                    "of Desecration"
+                ],
+                "Has stat text": [
+                    "11% increased Quantity of Items found in this Area<br>Area has patches of desecrated ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapDesecratedGround",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapDesecratedGround",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapDesecratedGround1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Desecration"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of desecrated ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapDesecratedGround1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapDesecratedGround1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapDesecratedGround2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Desecration"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of desecrated ground<br>24 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 16 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapDesecratedGround2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapDesecratedGround2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapDesecratedGround3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Desecration"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of desecrated ground<br>28 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 18 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapDesecratedGround3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapDesecratedGround3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapLargePacks": {
+            "printouts": {
+                "Has name": [
+                    "of Hordes"
+                ],
+                "Has stat text": [
+                    "+(20-50)% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapLargePacks",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapLargePacks",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMagicMonsters": {
+            "printouts": {
+                "Has name": [
+                    "of Champions"
+                ],
+                "Has stat text": [
+                    "3% increased Quantity of Items found in this Area<br>(20-50)% more Magic Monsters"
+                ]
+            },
+            "fulltext": "Modifier:MapMagicMonsters",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMagicMonsters",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterAreaOfEffect2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Giants"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>Monsters have 70% increased Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterAreaOfEffect2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterAreaOfEffect2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterAreaOfEffect3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Giants"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>Monsters have 100% increased Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterAreaOfEffect3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterAreaOfEffect3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterAreaOfEffectMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Giants"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>Monsters have 45% increased Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterAreaOfEffectMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterAreaOfEffectMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterCriticalStrikesAndDamage2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Deadliness"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Monsters have (260-300)% increased [[Critical Strike Chance]]<br>+(36-40)% to Monster [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterCriticalStrikesAndDamage2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterCriticalStrikesAndDamage2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterCriticalStrikesAndDamage3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Deadliness"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Monsters have (360-400)% increased [[Critical Strike Chance]]<br>+(41-45)% to Monster [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterCriticalStrikesAndDamage3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterCriticalStrikesAndDamage3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterCriticalStrikesAndDamageMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Deadliness"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Monsters have (160-200)% increased [[Critical Strike Chance]]<br>+(30-35)% to Monster [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterCriticalStrikesAndDamageMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterCriticalStrikesAndDamageMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterEndurance": {
+            "printouts": {
+                "Has name": [
+                    "of Endurance"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>Monsters gain (1-3) [[Endurance Charge|Endurance Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterEndurance",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterEndurance",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterEndurance2Map2Tier~": {
+            "printouts": {
+                "Has name": [
+                    "of Endurance"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 2 [[Endurance Charge|Endurance Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterEndurance2Map2Tier~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterEndurance2Map2Tier~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterEndurance3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Endurance"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 3 [[Endurance Charge|Endurance Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterEndurance3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterEndurance3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterEnduranceMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Endurance"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 1 [[Endurance Charge]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterEnduranceMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterEnduranceMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterFracturing": {
+            "printouts": {
+                "Has name": [
+                    "of Fracturing"
+                ],
+                "Has stat text": [
+                    "30% increased Quantity of Items found in this Area<br>Monsters Fracture"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterFracturing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterFracturing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterFracturing2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Fracturing"
+                ],
+                "Has stat text": [
+                    "25% increased Quantity of Items found in this Area<br>12% increased Rarity of Items found in this Area<br>Monsters Fracture"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterFracturing2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterFracturing2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterFracturingMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Fracturing"
+                ],
+                "Has stat text": [
+                    "25% increased Quantity of Items found in this Area<br>12% increased Rarity of Items found in this Area<br>Monsters Fracture"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterFracturingMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterFracturingMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterFrenzy": {
+            "printouts": {
+                "Has name": [
+                    "of Frenzy"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>Monsters gain (1-3) [[Frenzy Charge|Frenzy Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterFrenzy",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterFrenzy",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterFrenzy2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Frenzy"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 2 [[Frenzy Charge|Frenzy Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterFrenzy2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterFrenzy2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterFrenzy3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Frenzy"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 3 [[Frenzy Charge|Frenzy Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterFrenzy3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterFrenzy3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterFrenzyMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Frenzy"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 1 [[Frenzy Charge]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterFrenzyMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterFrenzyMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterLifeLeechImmunityMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Congealment"
+                ],
+                "Has stat text": [
+                    "25% increased Quantity of Items found in this Area<br>12% increased Rarity of Items found in this Area<br>Cannot [[Leech]] [[Life]] from Monsters<br>Cannot [[Leech]] [[Mana]] from Monsters"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterLifeLeechImmunityMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterLifeLeechImmunityMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterPower": {
+            "printouts": {
+                "Has name": [
+                    "of Power"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>Monsters gain (1-3) [[Power Charge|Power Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterPower",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterPower",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterPower2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Power"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 2 [[Power Charge|Power Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterPower2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterPower2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterPower3Map2Tier~": {
+            "printouts": {
+                "Has name": [
+                    "of Power"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 3 [[Power Charge|Power Charges]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterPower3Map2Tier~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterPower3Map2Tier~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterPowerMap2Tier~": {
+            "printouts": {
+                "Has name": [
+                    "of Power"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters gain 1 [[Power Charge]] every 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterPowerMap2Tier~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterPowerMap2Tier~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterStatusAilmentAvoidance2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Insulation"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Monsters have 60% chance to Avoid Elemental Ailments"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterStatusAilmentAvoidance2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterStatusAilmentAvoidance2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterStatusAilmentAvoidanceMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Insulation"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Monsters have 30% chance to Avoid Elemental Ailments"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterStatusAilmentAvoidanceMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterStatusAilmentAvoidanceMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonsterStatusAilmentImmunityMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Insulation"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Monsters have 90% chance to Avoid Elemental Ailments"
+                ]
+            },
+            "fulltext": "Modifier:MapMonsterStatusAilmentImmunityMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonsterStatusAilmentImmunityMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonstersBaseSelfCriticalMultiplier2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Toughness"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters take (31-35)% reduced Extra Damage from Critical Strikes"
+                ]
+            },
+            "fulltext": "Modifier:MapMonstersBaseSelfCriticalMultiplier2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonstersBaseSelfCriticalMultiplier2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonstersBaseSelfCriticalMultiplier3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Toughness"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters take (36-40)% reduced Extra Damage from Critical Strikes"
+                ]
+            },
+            "fulltext": "Modifier:MapMonstersBaseSelfCriticalMultiplier3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonstersBaseSelfCriticalMultiplier3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapMonstersBaseSelfCriticalMultiplierMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Toughness"
+                ],
+                "Has stat text": [
+                    "14% increased Quantity of Items found in this Area<br>7% increased Rarity of Items found in this Area<br>Monsters take (25-30)% reduced Extra Damage from Critical Strikes"
+                ]
+            },
+            "fulltext": "Modifier:MapMonstersBaseSelfCriticalMultiplierMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapMonstersBaseSelfCriticalMultiplierMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerBloodMagic": {
+            "printouts": {
+                "Has name": [
+                    "of Hemomancy"
+                ],
+                "Has stat text": [
+                    "25% increased Quantity of Items found in this Area<br>Players have Blood Magic"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerBloodMagic",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerBloodMagic",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerBloodMagicMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Hemomancy"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>Players have Blood Magic<br>+10% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerBloodMagicMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerBloodMagicMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseElementalWeakness": {
+            "printouts": {
+                "Has name": [
+                    "of Elemental Weakness"
+                ],
+                "Has stat text": [
+                    "17% increased Quantity of Items found in this Area<br>Players are Cursed with [[Elemental Weakness]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseElementalWeakness",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseElementalWeakness",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseElementalWeakness1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Elemental Weakness"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Elemental Weakness]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseElementalWeakness1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseElementalWeakness1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseElementalWeakness2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Elemental Weakness"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Elemental Weakness]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseElementalWeakness2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseElementalWeakness2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseEnfeeblement": {
+            "printouts": {
+                "Has name": [
+                    "of Enfeeblement"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>Players are Cursed with [[Enfeeble]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseEnfeeblement",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseEnfeeblement",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseEnfeeblement1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Enfeeblement"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Enfeeble]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseEnfeeblement1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseEnfeeblement1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseEnfeeblement2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Enfeeblement"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Enfeeble]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseEnfeeblement2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseEnfeeblement2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseTemporalChains": {
+            "printouts": {
+                "Has name": [
+                    "of Temporal Chains"
+                ],
+                "Has stat text": [
+                    "27% increased Quantity of Items found in this Area<br>Players are Cursed with [[Temporal Chains]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseTemporalChains",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseTemporalChains",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseTemporalChains1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Temporal Chains"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Temporal Chains]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseTemporalChains1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseTemporalChains1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseTemporalChains2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Temporal Chains"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Temporal Chains]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseTemporalChains2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseTemporalChains2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseVulnerability": {
+            "printouts": {
+                "Has name": [
+                    "of Vulnerability"
+                ],
+                "Has stat text": [
+                    "25% increased Quantity of Items found in this Area<br>Players are Cursed with [[Vulnerability]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseVulnerability",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseVulnerability",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseVulnerability1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Vulnerability"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Vulnerability]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseVulnerability1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseVulnerability1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerCurseVulnerability2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Vulnerability"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>Players are Cursed with [[Vulnerability]]<br>+14% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerCurseVulnerability2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerCurseVulnerability2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerElementalEquilibrium": {
+            "printouts": {
+                "Has name": [
+                    "of Balance"
+                ],
+                "Has stat text": [
+                    "9% increased Quantity of Items found in this Area<br>Players have Elemental Equilibrium"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerElementalEquilibrium",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerElementalEquilibrium",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerElementalEquilibriumMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Balance"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>5% increased Rarity of Items found in this Area<br>Players have Elemental Equilibrium<br>+10% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerElementalEquilibriumMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerElementalEquilibriumMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerMaxResists": {
+            "printouts": {
+                "Has name": [
+                    "of Exposure"
+                ],
+                "Has stat text": [
+                    "30% increased Quantity of Items found in this Area<br>-(25-15)% maximum Player Resistances"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerMaxResists",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerMaxResists",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerMaxResists1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Exposure"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>-(8-5)% maximum Player Resistances<br>+16% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerMaxResists1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerMaxResists1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerMaxResists2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Exposure"
+                ],
+                "Has stat text": [
+                    "18% increased Quantity of Items found in this Area<br>9% increased Rarity of Items found in this Area<br>-(12-9)% maximum Player Resistances<br>+16% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerMaxResists2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerMaxResists2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerNoLifeESRegen": {
+            "printouts": {
+                "Has name": [
+                    "of Stasis"
+                ],
+                "Has stat text": [
+                    "30% increased Quantity of Items found in this Area<br>Players cannot Regenerate Life, [[Mana]] or [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerNoLifeESRegen",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerNoLifeESRegen",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerNoLifeESRegenMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Stasis"
+                ],
+                "Has stat text": [
+                    "20% increased Quantity of Items found in this Area<br>10% increased Rarity of Items found in this Area<br>Players cannot Regenerate Life, [[Mana]] or [[Energy Shield]]<br>+12% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerNoLifeESRegenMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerNoLifeESRegenMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerNoRegen": {
+            "printouts": {
+                "Has name": [
+                    "of Stasis"
+                ],
+                "Has stat text": [
+                    "30% increased Quantity of Items found in this Area<br>Players have no [[Life]] or [[Mana]] Regeneration"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerNoRegen",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerNoRegen",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerNoRegenMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Stasis"
+                ],
+                "Has stat text": [
+                    "20% increased Quantity of Items found in this Area<br>10% increased Rarity of Items found in this Area<br>Players have no [[Life]] or [[Mana]] Regeneration<br>+12% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerNoRegenMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerNoRegenMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerReducedRegen": {
+            "printouts": {
+                "Has name": [
+                    "of Smothering"
+                ],
+                "Has stat text": [
+                    "20% increased Quantity of Items found in this Area<br>Players have 50% less Recovery Rate of [[Life]] and [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerReducedRegen",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerReducedRegen",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerReducedRegen1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Smothering"
+                ],
+                "Has stat text": [
+                    "20% increased Quantity of Items found in this Area<br>15% increased Rarity of Items found in this Area<br>Players have 20% less Recovery Rate of [[Life]] and [[Energy Shield]]<br>+15% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerReducedRegen1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerReducedRegen1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerReducedRegen2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Smothering"
+                ],
+                "Has stat text": [
+                    "20% increased Quantity of Items found in this Area<br>15% increased Rarity of Items found in this Area<br>Players have 40% less Recovery Rate of [[Life]] and [[Energy Shield]]<br>+15% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerReducedRegen2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerReducedRegen2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayerReducedRegen3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Smothering"
+                ],
+                "Has stat text": [
+                    "20% increased Quantity of Items found in this Area<br>15% increased Rarity of Items found in this Area<br>Players have 60% less Recovery Rate of [[Life]] and [[Energy Shield]]<br>+15% Monster pack size"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayerReducedRegen3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayerReducedRegen3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersBlockAndArmour2": {
+            "printouts": {
+                "Has name": [
+                    "of Rust"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>+12% Monster pack size<br>Players have 30% reduced [[Block]] Chance<br>Players have 25% less [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersBlockAndArmour2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersBlockAndArmour2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersBlockAndArmour3": {
+            "printouts": {
+                "Has name": [
+                    "of Rust"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>+12% Monster pack size<br>Players have 40% reduced [[Block]] Chance<br>Players have 30% less [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersBlockAndArmour3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersBlockAndArmour3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersBlockAndArmour~": {
+            "printouts": {
+                "Has name": [
+                    "of Rust"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>+12% Monster pack size<br>Players have 20% reduced [[Block]] Chance<br>Players have 20% less [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersBlockAndArmour~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersBlockAndArmour~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersEvasionAndUnluckyDodge1": {
+            "printouts": {
+                "Has name": [
+                    "of Miring"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>+12% Monster pack size<br>Player [[Dodge]] chance is Unlucky<br>Monsters have 30% increased [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersEvasionAndUnluckyDodge1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersEvasionAndUnluckyDodge1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersEvasionAndUnluckyDodge2": {
+            "printouts": {
+                "Has name": [
+                    "of Miring"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>+12% Monster pack size<br>Player [[Dodge]] chance is Unlucky<br>Monsters have 40% increased [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersEvasionAndUnluckyDodge2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersEvasionAndUnluckyDodge2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersEvasionAndUnluckyDodge3": {
+            "printouts": {
+                "Has name": [
+                    "of Miring"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>+12% Monster pack size<br>Player [[Dodge]] chance is Unlucky<br>Monsters have 50% increased [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersEvasionAndUnluckyDodge3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersEvasionAndUnluckyDodge3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersGainReducedFlaskCharges": {
+            "printouts": {
+                "Has name": [
+                    "of Drought"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>5% increased Rarity of Items found in this Area<br>+10% Monster pack size<br>Players gain 30% reduced Flask [[Charge|Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersGainReducedFlaskCharges",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersGainReducedFlaskCharges",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersGainReducedFlaskCharges2": {
+            "printouts": {
+                "Has name": [
+                    "of Drought"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>5% increased Rarity of Items found in this Area<br>+10% Monster pack size<br>Players gain 40% reduced Flask [[Charge|Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersGainReducedFlaskCharges2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersGainReducedFlaskCharges2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersGainReducedFlaskCharges3": {
+            "printouts": {
+                "Has name": [
+                    "of Drought"
+                ],
+                "Has stat text": [
+                    "10% increased Quantity of Items found in this Area<br>5% increased Rarity of Items found in this Area<br>+10% Monster pack size<br>Players gain 50% reduced Flask [[Charge|Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersGainReducedFlaskCharges3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersGainReducedFlaskCharges3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersLessAoERadius": {
+            "printouts": {
+                "Has name": [
+                    "of Impotence"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>+10% Monster pack size<br>Players have 15% less Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersLessAoERadius",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersLessAoERadius",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersLessAoERadius2": {
+            "printouts": {
+                "Has name": [
+                    "of Impotence"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>+10% Monster pack size<br>Players have 20% less Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersLessAoERadius2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersLessAoERadius2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersLessAoERadius3~": {
+            "printouts": {
+                "Has name": [
+                    "of Impotence"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>+10% Monster pack size<br>Players have 25% less Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersLessAoERadius3~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersLessAoERadius3~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPlayersPointBlank": {
+            "printouts": {
+                "Has name": [
+                    "of Skirmishing"
+                ],
+                "Has stat text": [
+                    "15% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>+12% Monster pack size<br>Players have Point Blank"
+                ]
+            },
+            "fulltext": "Modifier:MapPlayersPointBlank",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPlayersPointBlank",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPoisoning": {
+            "printouts": {
+                "Has name": [
+                    "of Venom"
+                ],
+                "Has stat text": [
+                    "16% increased Quantity of Items found in this Area<br>Monsters [[Poison]] on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPoisoning",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPoisoning",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapPoisoningMap2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Venom"
+                ],
+                "Has stat text": [
+                    "16% increased Quantity of Items found in this Area<br>8% increased Rarity of Items found in this Area<br>Monsters [[Poison]] on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:MapPoisoningMap2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapPoisoningMap2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapRareMonsters": {
+            "printouts": {
+                "Has name": [
+                    "of Commanders"
+                ],
+                "Has stat text": [
+                    "3% increased Quantity of Items found in this Area<br>(20-50)% more Rare Monsters"
+                ]
+            },
+            "fulltext": "Modifier:MapRareMonsters",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapRareMonsters",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapShockedGround": {
+            "printouts": {
+                "Has name": [
+                    "of Lightning"
+                ],
+                "Has stat text": [
+                    "11% increased Quantity of Items found in this Area<br>Area has patches of shocking ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapShockedGround",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapShockedGround",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapShockedGround1Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Lightning"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of shocking ground<br>20 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 14 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapShockedGround1Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapShockedGround1Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapShockedGround2Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Lightning"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of shocking ground<br>24 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 16 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapShockedGround2Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapShockedGround2Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MapShockedGround3Map2Tier": {
+            "printouts": {
+                "Has name": [
+                    "of Lightning"
+                ],
+                "Has stat text": [
+                    "12% increased Quantity of Items found in this Area<br>6% increased Rarity of Items found in this Area<br>Area has patches of shocking ground<br>28 patches with Ground Effect per 100 tiles (Hidden)<br>Ground Effect has a radius of 18 (Hidden)"
+                ]
+            },
+            "fulltext": "Modifier:MapShockedGround3Map2Tier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MapShockedGround3Map2Tier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 98
+}

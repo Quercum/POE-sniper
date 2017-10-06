@@ -1,0 +1,1113 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:AccuracyAndCritsJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Deadliness"
+                ],
+                "Has stat text": [
+                    "(6-10)% increased [[Accuracy Rating]]<br>(6-10)% increased Global [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:AccuracyAndCritsJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AccuracyAndCritsJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AllAttributesJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Adaption"
+                ],
+                "Has stat text": [
+                    "+(6-8) to all Attributes"
+                ]
+            },
+            "fulltext": "Modifier:AllAttributesJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AllAttributesJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AllResistancesJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Resistance"
+                ],
+                "Has stat text": [
+                    "+(8-10)% to all [[Elemental Resistance|Elemental Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:AllResistancesJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AllResistancesJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AreaDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Blasting"
+                ],
+                "Has stat text": [
+                    "(10-12)% increased Area Damage"
+                ]
+            },
+            "fulltext": "Modifier:AreaDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AreaDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AttackAndCastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Zeal"
+                ],
+                "Has stat text": [
+                    "(2-4)% increased [[Attack]] and [[Cast Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:AttackAndCastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AttackAndCastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AttackSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Berserking"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:AttackSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AttackSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AuraRadiusJewel": {
+            "printouts": {
+                "Has name": [
+                    "Hero's FIX ME"
+                ],
+                "Has stat text": [
+                    "(10-15)% increased Area of Effect of Aura [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:AuraRadiusJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AuraRadiusJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AvoidChillJewel": {
+            "printouts": {
+                "Has name": [
+                    "Heating FIX ME"
+                ],
+                "Has stat text": [
+                    "(6-8)% chance to Avoid being Chilled"
+                ]
+            },
+            "fulltext": "Modifier:AvoidChillJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AvoidChillJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AvoidFreezeJewel": {
+            "printouts": {
+                "Has name": [
+                    "Thawing FIX ME"
+                ],
+                "Has stat text": [
+                    "(6-8)% chance to Avoid being [[Freeze|Frozen]]"
+                ]
+            },
+            "fulltext": "Modifier:AvoidFreezeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AvoidFreezeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AvoidIgniteJewel": {
+            "printouts": {
+                "Has name": [
+                    "Dousing FIX ME"
+                ],
+                "Has stat text": [
+                    "(6-8)% chance to Avoid being Ignited"
+                ]
+            },
+            "fulltext": "Modifier:AvoidIgniteJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AvoidIgniteJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AvoidShockJewel": {
+            "printouts": {
+                "Has name": [
+                    "Insulating FIX ME"
+                ],
+                "Has stat text": [
+                    "(6-8)% chance to Avoid being [[Shock|Shocked]]"
+                ]
+            },
+            "fulltext": "Modifier:AvoidShockJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AvoidShockJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AvoidStunJewel": {
+            "printouts": {
+                "Has name": [
+                    "FIX ME"
+                ],
+                "Has stat text": [
+                    "(6-8)% chance to Avoid being Stunned"
+                ]
+            },
+            "fulltext": "Modifier:AvoidStunJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AvoidStunJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BleedChanceAndDurationForJewel~~": {
+            "printouts": {
+                "Has name": [
+                    "of Bleeding"
+                ],
+                "Has stat text": [
+                    "[[Attack|Attacks]] have (3-5)% chance to cause Bleeding<br>(12-16)% increased Bleed duration"
+                ]
+            },
+            "fulltext": "Modifier:BleedChanceAndDurationForJewel~~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BleedChanceAndDurationForJewel~~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BleedDamageForJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Haemophilia"
+                ],
+                "Has stat text": [
+                    "(16-20)% increased Damage with Bleeding"
+                ]
+            },
+            "fulltext": "Modifier:BleedDamageForJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BleedDamageForJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BurningDamageForJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Combusting"
+                ],
+                "Has stat text": [
+                    "(16-20)% increased Burning Damage"
+                ]
+            },
+            "fulltext": "Modifier:BurningDamageForJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BurningDamageForJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CastSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Enchanting"
+                ],
+                "Has stat text": [
+                    "(2-4)% increased [[Cast Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:CastSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CastSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToFreezeJewel": {
+            "printouts": {
+                "Has name": [
+                    "FIX ME"
+                ],
+                "Has stat text": [
+                    "(2-3)% chance to [[Freeze]]"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToFreezeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToFreezeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToIgniteJewel~": {
+            "printouts": {
+                "Has name": [
+                    "FIX ME"
+                ],
+                "Has stat text": [
+                    "(2-3)% chance to [[Ignite]]"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToIgniteJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToIgniteJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToShockJewel": {
+            "printouts": {
+                "Has name": [
+                    "FIX ME"
+                ],
+                "Has stat text": [
+                    "(2-3)% chance to [[Shock]]"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToShockJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToShockJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosResistanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Order"
+                ],
+                "Has stat text": [
+                    "+(7-13)% to [[Chaos Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:ChaosResistanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosResistanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdLightningResistanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Shelter"
+                ],
+                "Has stat text": [
+                    "+(10-12)% to Cold and [[Lightning Resistance|Lightning Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdLightningResistanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdLightningResistanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdResistanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Beast"
+                ],
+                "Has stat text": [
+                    "+(12-15)% to [[Cold Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdResistanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdResistanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CriticalStrikeChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Menace"
+                ],
+                "Has stat text": [
+                    "(8-12)% increased Global [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:CriticalStrikeChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CriticalStrikeChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CriticalStrikeMultiplierJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Potency"
+                ],
+                "Has stat text": [
+                    "+(9-12)% to Global [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:CriticalStrikeMultiplierJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CriticalStrikeMultiplierJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CurseCastSpeedJewel~": {
+            "printouts": {
+                "Has name": [
+                    "of Blasphemy"
+                ],
+                "Has stat text": [
+                    "(5-10)% increased [[Cast Speed]] for [[Curse|Curses]]"
+                ]
+            },
+            "fulltext": "Modifier:CurseCastSpeedJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CurseCastSpeedJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CurseRadiusJewel": {
+            "printouts": {
+                "Has name": [
+                    "Hexing FIX ME"
+                ],
+                "Has stat text": [
+                    "(8-10)% increased Area of Effect of [[Curse]] [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:CurseRadiusJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CurseRadiusJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Wounding"
+                ],
+                "Has stat text": [
+                    "(8-10)% increased Damage"
+                ]
+            },
+            "fulltext": "Modifier:DamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageOverTimeJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Entropy"
+                ],
+                "Has stat text": [
+                    "(10-12)% increased Damage over Time"
+                ]
+            },
+            "fulltext": "Modifier:DamageOverTimeJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageOverTimeJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexterityIntelligenceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Cunning"
+                ],
+                "Has stat text": [
+                    "+(8-10) to [[Dexterity]] and [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:DexterityIntelligenceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexterityIntelligenceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexterityJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Dexterity"
+                ],
+                "Has stat text": [
+                    "+(12-16) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:DexterityJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexterityJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ElementalCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Apocalypse"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Critical Strike Chance]] with Elemental [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ElementalCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ElementalCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ElementalCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "of the Elements"
+                ],
+                "Has stat text": [
+                    "+(12-15)% to [[Critical Strike Multiplier]] with Elemental [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ElementalCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ElementalCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnduranceChargeDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Endurance"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Endurance Charge]] Duration"
+                ]
+            },
+            "fulltext": "Modifier:EnduranceChargeDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnduranceChargeDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldOnHitJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Focus"
+                ],
+                "Has stat text": [
+                    "+(2-3) [[Energy Shield]] gained for each Enemy [[Hit|hit]] by your [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldOnHitJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldOnHitJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireColdResistanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Hearth"
+                ],
+                "Has stat text": [
+                    "+(10-12)% to Fire and [[Cold Resistance|Cold Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:FireColdResistanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireColdResistanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireLightningResistanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Insulation"
+                ],
+                "Has stat text": [
+                    "+(10-12)% to Fire and [[Lightning Resistance|Lightning Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:FireLightningResistanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireLightningResistanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireResistanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Dragon"
+                ],
+                "Has stat text": [
+                    "+(12-15)% to [[Fire Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:FireResistanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireResistanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FreezeChanceAndDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Freezing"
+                ],
+                "Has stat text": [
+                    "(3-5)% chance to [[Freeze]]<br>(12-16)% increased [[Freeze]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:FreezeChanceAndDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FreezeChanceAndDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FreezeDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Glacier"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased Chill and [[Freeze]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:FreezeDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FreezeDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FrenzyChargeDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Frenzy"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Frenzy Charge]] Duration"
+                ]
+            },
+            "fulltext": "Modifier:FrenzyChargeDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FrenzyChargeDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IgniteChanceAndDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Burning"
+                ],
+                "Has stat text": [
+                    "(3-5)% chance to [[Ignite]]<br>(6-8)% increased [[Ignite]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:IgniteChanceAndDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IgniteChanceAndDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IgniteDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Immolation"
+                ],
+                "Has stat text": [
+                    "(3-5)% increased [[Ignite]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:IgniteDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IgniteDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedAccuracyJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Accuracy"
+                ],
+                "Has stat text": [
+                    "+(20-40) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedAccuracyJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedAccuracyJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntelligenceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Intelligence"
+                ],
+                "Has stat text": [
+                    "+(12-16) to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:IntelligenceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntelligenceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemRarityJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Raiding"
+                ],
+                "Has stat text": [
+                    "(4-6)% increased Rarity of Items found"
+                ]
+            },
+            "fulltext": "Modifier:ItemRarityJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemRarityJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:KnockbackChanceJewel~": {
+            "printouts": {
+                "Has name": [
+                    "of Fending"
+                ],
+                "Has stat text": [
+                    "(4-6)% chance to Knock Enemies Back on [[Hit|hit]]"
+                ]
+            },
+            "fulltext": "Modifier:KnockbackChanceJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:KnockbackChanceJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeOnHitJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Rejuvenation"
+                ],
+                "Has stat text": [
+                    "+(2-3) [[Life]] gained for each Enemy [[Hit|hit]] by your [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeOnHitJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeOnHitJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningResistanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Grounding"
+                ],
+                "Has stat text": [
+                    "+(12-15)% to [[Lightning Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningResistanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningResistanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaCostReductionJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Efficiency"
+                ],
+                "Has stat text": [
+                    "(3-5)% reduced [[Mana]] Cost of [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaCostReductionJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaCostReductionJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaOnHitJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Absorption"
+                ],
+                "Has stat text": [
+                    "+(1-2) [[Mana]] gained for each Enemy [[Hit|hit]] by your [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaOnHitJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaOnHitJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MeleeCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Weight"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased Melee [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:MeleeCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MeleeCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MeleeCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "of Demolishing"
+                ],
+                "Has stat text": [
+                    "+(12-15)% to Melee [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:MeleeCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MeleeCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MeleeDamageJewel~": {
+            "printouts": {
+                "Has name": [
+                    "of Combat"
+                ],
+                "Has stat text": [
+                    "(10-12)% increased Melee Damage"
+                ]
+            },
+            "fulltext": "Modifier:MeleeDamageJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MeleeDamageJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionBlockJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Wall"
+                ],
+                "Has stat text": [
+                    "[[Minion|Minions]] have (2-4)% Chance to [[Block]]"
+                ]
+            },
+            "fulltext": "Modifier:MinionBlockJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionBlockJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionElementalResistancesJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Resilience"
+                ],
+                "Has stat text": [
+                    "[[Minion|Minions]] have +(6-10)% to all [[Elemental Resistance|Elemental Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:MinionElementalResistancesJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionElementalResistancesJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PercentIncreasedAccuracyJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Precision"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:PercentIncreasedAccuracyJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PercentIncreasedAccuracyJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PoisonChanceAndDurationForJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Poisoning"
+                ],
+                "Has stat text": [
+                    "(3-5)% chance to [[Poison]] on [[Hit]]<br>(6-8)% increased [[Poison]] Duration"
+                ]
+            },
+            "fulltext": "Modifier:PoisonChanceAndDurationForJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PoisonChanceAndDurationForJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PoisonDamageForJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Venom"
+                ],
+                "Has stat text": [
+                    "(16-20)% increased Damage with [[Poison]]"
+                ]
+            },
+            "fulltext": "Modifier:PoisonDamageForJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PoisonDamageForJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PowerChargeDurationJewel~": {
+            "printouts": {
+                "Has name": [
+                    "of Power"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Power Charge]] Duration"
+                ]
+            },
+            "fulltext": "Modifier:PowerChargeDurationJewel~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PowerChargeDurationJewel~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ProjectileDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Archery"
+                ],
+                "Has stat text": [
+                    "(10-12)% increased Projectile Damage"
+                ]
+            },
+            "fulltext": "Modifier:ProjectileDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ProjectileDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ProjectileSpeedJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Soaring"
+                ],
+                "Has stat text": [
+                    "(6-8)% increased Projectile Speed"
+                ]
+            },
+            "fulltext": "Modifier:ProjectileSpeedJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ProjectileSpeedJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShockChanceAndDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Shocking"
+                ],
+                "Has stat text": [
+                    "(3-5)% chance to [[Shock]]<br>(12-16)% increased [[Shock]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:ShockChanceAndDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShockChanceAndDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShockDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of the Storm"
+                ],
+                "Has stat text": [
+                    "(12-16)% increased [[Shock]] Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:ShockDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShockDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellCritChanceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Annihilation"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased [[Critical Strike Chance]] for [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellCritChanceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellCritChanceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellCritMultiplier": {
+            "printouts": {
+                "Has name": [
+                    "of Unmaking"
+                ],
+                "Has stat text": [
+                    "+(12-15)% to [[Critical Strike Multiplier]] for [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellCritMultiplier",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellCritMultiplier",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellDamageJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Mysticism"
+                ],
+                "Has stat text": [
+                    "(10-12)% increased [[Spell Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellDamageJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellDamageJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrengthDexterityJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Athletics"
+                ],
+                "Has stat text": [
+                    "+(8-10) to [[Strength]] and [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:StrengthDexterityJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrengthDexterityJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrengthIntelligenceJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Spirit"
+                ],
+                "Has stat text": [
+                    "+(8-10) to [[Strength]] and [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:StrengthIntelligenceJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrengthIntelligenceJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrengthJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Strength"
+                ],
+                "Has stat text": [
+                    "+(12-16) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrengthJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrengthJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StunDurationJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Stunning"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased Stun Duration on Enemies"
+                ]
+            },
+            "fulltext": "Modifier:StunDurationJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StunDurationJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StunRecoveryJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Recovery"
+                ],
+                "Has stat text": [
+                    "(10-14)% increased Stun and [[Block]] Recovery"
+                ]
+            },
+            "fulltext": "Modifier:StunRecoveryJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StunRecoveryJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TotemElementalResistancesJewel": {
+            "printouts": {
+                "Has name": [
+                    "of Runes"
+                ],
+                "Has stat text": [
+                    "[[Totem|Totems]] gain +(6-10)% to all [[Elemental Resistance|Elemental Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:TotemElementalResistancesJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TotemElementalResistancesJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 72
+}

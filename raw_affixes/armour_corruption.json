@@ -1,0 +1,1268 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:AddedChaosDamageCorrupted1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds 1 to (2-3) [[Chaos Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:AddedChaosDamageCorrupted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AddedChaosDamageCorrupted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AddedChaosDamageCorrupted2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds (3-4) to (6-8) [[Chaos Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:AddedChaosDamageCorrupted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AddedChaosDamageCorrupted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AddedChaosDamageCorrupted3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds (7-9) to (11-13) [[Chaos Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:AddedChaosDamageCorrupted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AddedChaosDamageCorrupted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalAOERangeCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(4-6)% increased Area of Effect of Area [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalAOERangeCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalAOERangeCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalArrowsCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds an additional Arrow"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalArrowsCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalArrowsCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalCurseCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Enemies can have 1 additional [[Curse]]"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalCurseCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalCurseCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalPierceCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Arrows Pierce an additional Target"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalPierceCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalPierceCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalTrapsCorruption~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Can have up to 1 additional [[Trap]] placed at a time"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalTrapsCorruption~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalTrapsCorruption~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AngerSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 15 [[Anger]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:AngerSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AngerSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AttackSpeedCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(4-8)% increased [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:AttackSpeedCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AttackSpeedCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AvoidShockCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% chance to Avoid being [[Shock|Shocked]]"
+                ]
+            },
+            "fulltext": "Modifier:AvoidShockCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AvoidShockCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BlockChanceCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(2-4)% Chance to [[Block]]"
+                ]
+            },
+            "fulltext": "Modifier:BlockChanceCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BlockChanceCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CanCatchCorruptFishCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "You can catch Corrupted Fish"
+                ]
+            },
+            "fulltext": "Modifier:CanCatchCorruptFishCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CanCatchCorruptFishCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CannotBeKnockedBackCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Cannot be Knocked Back"
+                ]
+            },
+            "fulltext": "Modifier:CannotBeKnockedBackCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CannotBeKnockedBackCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CannotBeLeechedFromCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Enemies Cannot [[Leech]] [[Life]] From You"
+                ]
+            },
+            "fulltext": "Modifier:CannotBeLeechedFromCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CannotBeLeechedFromCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CastSpeedCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% increased [[Cast Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:CastSpeedCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CastSpeedCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToAvoidFreezeCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% chance to Avoid being [[Freeze|Frozen]]"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToAvoidFreezeCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToAvoidFreezeCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToAvoidIgniteCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% chance to Avoid being Ignited"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToAvoidIgniteCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToAvoidIgniteCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToDodgeCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(2-4)% chance to [[Dodge]] [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToDodgeCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToDodgeCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToFleeCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "5% chance to Cause Monsters to Flee"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToFleeCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToFleeCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosResistCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(2-4)% to [[Chaos Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:ChaosResistCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosResistCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ClaritySkillCorrupted1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 4 [[Clarity]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:ClaritySkillCorrupted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ClaritySkillCorrupted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ClaritySkillCorrupted2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 8 [[Clarity]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:ClaritySkillCorrupted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ClaritySkillCorrupted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ClaritySkillCorrupted3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 12 [[Clarity]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:ClaritySkillCorrupted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ClaritySkillCorrupted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ClaritySkillCorrupted4": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 16 [[Clarity]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:ClaritySkillCorrupted4",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ClaritySkillCorrupted4",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdDamageLifeLeechPermyriadCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "0.2% of [[Cold Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdDamageLifeLeechPermyriadCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdDamageLifeLeechPermyriadCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ConductivitySkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 14 [[Conductivity]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:ConductivitySkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ConductivitySkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CriticalWeaknessSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 10 [[Assassin's Mark]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:CriticalWeaknessSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CriticalWeaknessSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CullingStrikeCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Culling Strike"
+                ]
+            },
+            "fulltext": "Modifier:CullingStrikeCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CullingStrikeCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CurseOnHitElementalWeaknessCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Curse]] Enemies with [[Level|level]] (10-12) [[Elemental Weakness]] on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:CurseOnHitElementalWeaknessCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CurseOnHitElementalWeaknessCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CurseOnHitTemporalChainsCurruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Curse]] Enemies with [[Level|level]] (10-12) [[Temporal Chains]] on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:CurseOnHitTemporalChainsCurruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CurseOnHitTemporalChainsCurruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CurseOnHitVulnerabilityCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Curse]] Enemies with [[Level|level]] (10-12) [[Vulnerability]] on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:CurseOnHitVulnerabilityCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CurseOnHitVulnerabilityCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageConversionColdCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% of [[Physical Damage]] Converted to [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DamageConversionColdCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageConversionColdCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageConversionFireCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% of [[Physical Damage]] Converted to [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DamageConversionFireCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageConversionFireCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageConversionLighningCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% of [[Physical Damage]] Converted to [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DamageConversionLighningCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageConversionLighningCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageTakenFlatReductionCorrupted1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "-(10-5) [[Physical Damage]] taken from [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:DamageTakenFlatReductionCorrupted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageTakenFlatReductionCorrupted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageTakenFlatReductionCorrupted2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "-(16-11) [[Physical Damage]] taken from [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:DamageTakenFlatReductionCorrupted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageTakenFlatReductionCorrupted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageTakenFlatReductionCorrupted3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "-(24-17) [[Physical Damage]] taken from [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:DamageTakenFlatReductionCorrupted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageTakenFlatReductionCorrupted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageTakenFromManaBeforeLifeCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-5)% of Damage is taken from [[Mana]] before [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:DamageTakenFromManaBeforeLifeCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageTakenFromManaBeforeLifeCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DeterminationSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 16 [[Determination]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:DeterminationSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DeterminationSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DisciplineSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 16 [[Discipline]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:DisciplineSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DisciplineSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualWieldBlockCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-6)% additional [[Block]] Chance while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:DualWieldBlockCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualWieldBlockCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ElementalWeaknessSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 10 [[Elemental Weakness]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:ElementalWeaknessSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ElementalWeaknessSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamageLifeLeechPermyriadCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "0.2% of [[Fire Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamageLifeLeechPermyriadCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamageLifeLeechPermyriadCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FishingQuantityCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(5-10)% increased Quantity of Fish Caught"
+                ]
+            },
+            "fulltext": "Modifier:FishingQuantityCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FishingQuantityCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FishingRarityCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(5-10)% increased Rarity of Fish Caught"
+                ]
+            },
+            "fulltext": "Modifier:FishingRarityCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FishingRarityCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlammabilitySkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 14 [[Flammability]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:FlammabilitySkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlammabilitySkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FrostbiteSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 14 [[Frostbite]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:FrostbiteSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FrostbiteSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:GemLevelCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+1 to [[Level]] of [[Item socket|Socketed]] Gems"
+                ]
+            },
+            "fulltext": "Modifier:GemLevelCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:GemLevelCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:GlobalPierceCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(4-8)% increased Projectile Speed"
+                ]
+            },
+            "fulltext": "Modifier:GlobalPierceCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:GlobalPierceCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:GraceSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 16 [[Grace]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:GraceSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:GraceSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:HasteSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 14 [[Haste]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:HasteSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:HasteSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:HatredSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 11 [[Hatred]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:HatredSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:HatredSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedCastSpeedCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(4-6)% increased [[Cast Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedCastSpeedCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedCastSpeedCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedDurationCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(5-8)% increased [[Skill]] Effect Duration"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedDurationCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedDurationCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningDamageLifeLeechPermyriadCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "0.2% of [[Lightning Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningDamageLifeLeechPermyriadCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningDamageLifeLeechPermyriadCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LocalAddedChaosDamageCorrupted1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds (1-2) to (3-5) [[Chaos Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:LocalAddedChaosDamageCorrupted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LocalAddedChaosDamageCorrupted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LocalAddedChaosDamageCorrupted2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds (6-8) to (11-13) [[Chaos Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:LocalAddedChaosDamageCorrupted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LocalAddedChaosDamageCorrupted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LocalAddedChaosDamageCorrupted3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds (8-11) to (19-23) [[Chaos Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:LocalAddedChaosDamageCorrupted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LocalAddedChaosDamageCorrupted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LocalMeleeWeaponRangeCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(1-2) to Weapon range"
+                ]
+            },
+            "fulltext": "Modifier:LocalMeleeWeaponRangeCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LocalMeleeWeaponRangeCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaOnHitCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(1-2) [[Mana]] gained for each Enemy [[Hit|hit]] by your [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaOnHitCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaOnHitCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaOnLifeLostCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-6)% of Damage taken gained as [[Mana]] over 4 seconds when [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaOnLifeLostCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaOnLifeLostCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MaxFrenzyChargesCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+1 to Maximum [[Frenzy Charge|Frenzy Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:MaxFrenzyChargesCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MaxFrenzyChargesCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MaxPowerChargesCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+1 to Maximum [[Power Charge|Power Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:MaxPowerChargesCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MaxPowerChargesCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MaximumEnduranceChargesCorruption~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+1 to Maximum [[Endurance Charge|Endurance Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:MaximumEnduranceChargesCorruption~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MaximumEnduranceChargesCorruption~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MaximumResistanceCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+1% to all maximum Resistances"
+                ]
+            },
+            "fulltext": "Modifier:MaximumResistanceCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MaximumResistanceCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionDamageCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Minion|Minions]] deal (15-20)% increased Damage"
+                ]
+            },
+            "fulltext": "Modifier:MinionDamageCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionDamageCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MovementVelocityCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(2-5)% increased [[Movement Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:MovementVelocityCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MovementVelocityCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ProjectileWeaknessSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 15 [[Projectile Weakness]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:ProjectileWeaknessSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ProjectileWeaknessSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PurityOfColdSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 15 [[Purity of Ice]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:PurityOfColdSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PurityOfColdSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PurityOfFireSkillCorrupted~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 15 [[Purity of Fire]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:PurityOfFireSkillCorrupted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PurityOfFireSkillCorrupted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PurityOfLightningSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 15 [[Purity of Lightning]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:PurityOfLightningSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PurityOfLightningSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PuritySkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 15 [[Purity of Elements]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:PuritySkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PuritySkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SocketedSkillsManaMultiplierCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] [[Skill]] Gems get a 95% [[Mana]] Multiplier"
+                ]
+            },
+            "fulltext": "Modifier:SocketedSkillsManaMultiplierCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SocketedSkillsManaMultiplierCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SocketedVaalGemsIncreaseCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(1-2) to [[Level]] of [[Item socket|Socketed]] Vaal Gems"
+                ]
+            },
+            "fulltext": "Modifier:SocketedVaalGemsIncreaseCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SocketedVaalGemsIncreaseCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellBlockChanceCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(2-4)% Chance to [[Block]] [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellBlockChanceCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellBlockChanceCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByAccuracyCorrupted~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Level|level]] 12 Additional [[Accuracy]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByAccuracyCorrupted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByAccuracyCorrupted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByAddedFireDamageCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are Supported by [[Added Fire Damage Support|level 12 Added Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByAddedFireDamageCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByAddedFireDamageCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByAreaOfEffectCorrupted~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are Supported by [[Increased Area of Effect Support|level 1 Increased Area of Effect]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByAreaOfEffectCorrupted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByAreaOfEffectCorrupted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByCastOnCritCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Level|level]] 12 Cast On Crit"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByCastOnCritCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByCastOnCritCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByCastOnStunCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Cast when Stunned Support|level 12 Cast when Stunned]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByCastOnStunCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByCastOnStunCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByCriticalMultiplierCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Increased Critical Damage Support|level 14 Increased Critical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByCriticalMultiplierCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByCriticalMultiplierCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByElementalProliferationCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are Supported by [[Elemental Proliferation Support|level 1 Elemental Proliferation]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByElementalProliferationCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByElementalProliferationCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByFasterCastCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are Supported by [[Faster Casting Support|Level 10 Faster Casting]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByFasterCastCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByFasterCastCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByForkCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Fork Support|level 1 Fork]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByForkCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByForkCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByLifeLeechCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Level|level]] 15 [[Life]] [[Leech]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByLifeLeechCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByLifeLeechCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByMeleeSplashCorruption": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Melee Splash Support|level 10 Melee Splash]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByMeleeSplashCorruption",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByMeleeSplashCorruption",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByMultistrikeCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Multistrike Support|level 1 Multistrike]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByMultistrikeCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByMultistrikeCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByStunCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Stun Support|level 6 Stun]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByStunCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByStunCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SupportedByWeaponElementalDamageCorrupted~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are supported by [[Level|level]] 12 Weapon [[Elemental Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:SupportedByWeaponElementalDamageCorrupted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SupportedByWeaponElementalDamageCorrupted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TemporalChainsSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 14 [[Temporal Chains]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:TemporalChainsSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TemporalChainsSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:VitalitySkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 15 [[Vitality]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:VitalitySkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:VitalitySkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:VulnerabilitySkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 10 [[Vulnerability]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:VulnerabilitySkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:VulnerabilitySkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:WeaponElementalDamageCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(6-12)% increased [[Elemental Damage]] with [[Attack]] [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:WeaponElementalDamageCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:WeaponElementalDamageCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:WrathSkillCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Grants [[Level|level]] 7 [[Wrath]] [[Skill]]"
+                ]
+            },
+            "fulltext": "Modifier:WrathSkillCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:WrathSkillCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 95
+}

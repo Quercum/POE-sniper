@@ -1,0 +1,2758 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:AddedLightningDamagePerDexInRadiusUniqueJewel53": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds 1 maximum [[Lightning Damage]] to [[Attack|Attacks]] per 1 [[Dexterity]] Allocated in Radius<br>Adds 1 to 2 [[Lightning Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:AddedLightningDamagePerDexInRadiusUniqueJewel53",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AddedLightningDamagePerDexInRadiusUniqueJewel53",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalCurseOnSelfUniqueCorruptedJewel13": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "You can have one additional [[Curse]]"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalCurseOnSelfUniqueCorruptedJewel13",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalCurseOnSelfUniqueCorruptedJewel13",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalPierceUniqueJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Projectiles Pierce an additional Target"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalPierceUniqueJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalPierceUniqueJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalTotemProjectilesUniqueJewel26": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Totem|Totems]] fire 2 additional Projectiles"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalTotemProjectilesUniqueJewel26",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalTotemProjectilesUniqueJewel26",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalVaalSoulOnKillUniqueCorruptedJewel4~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(20-30)% chance to gain an additional Vaal Soul on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalVaalSoulOnKillUniqueCorruptedJewel4~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalVaalSoulOnKillUniqueCorruptedJewel4~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AdditionalVaalSoulOnShatterUniqueCorruptedJewel7": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "50% chance to gain an additional Vaal Soul per Enemy Shattered"
+                ]
+            },
+            "fulltext": "Modifier:AdditionalVaalSoulOnShatterUniqueCorruptedJewel7",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AdditionalVaalSoulOnShatterUniqueCorruptedJewel7",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AllAttributesPerAssignedKeystoneUniqueJewel32": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "4% increased Attributes per allocated Keystone"
+                ]
+            },
+            "fulltext": "Modifier:AllAttributesPerAssignedKeystoneUniqueJewel32",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AllAttributesPerAssignedKeystoneUniqueJewel32",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AllDamageInRadiusBecomesFireUniqueJewel49": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Increases and Reductions to other Damage Types in Radius are Transformed to apply to [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:AllDamageInRadiusBecomesFireUniqueJewel49",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AllDamageInRadiusBecomesFireUniqueJewel49",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AttackAndCastSpeedJewelUniqueJewel43": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "4% increased [[Attack]] and [[Cast Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:AttackAndCastSpeedJewelUniqueJewel43",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AttackAndCastSpeedJewelUniqueJewel43",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:AttackDamageUniqueJewel42": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "8% increased [[Attack Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:AttackDamageUniqueJewel42",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AttackDamageUniqueJewel42",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BlightThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, [[Blight]] has 25% increased Area of Effect after 1 second of Channelling"
+                ]
+            },
+            "fulltext": "Modifier:BlightThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BlightThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BlightThresholdJewel~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, Enemies Hindered by<br>Blight take 25% increased [[Chaos Damage]]<br>With at least 40 [[Intelligence]] in Radius, [[Blight]] has 50% increased Hinder Duration"
+                ]
+            },
+            "fulltext": "Modifier:BlightThresholdJewel~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BlightThresholdJewel~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:BurningArrowThresholdJewel~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, Burning<br>Arrow can inflict an additional [[Ignite]] on an Enemy"
+                ]
+            },
+            "fulltext": "Modifier:BurningArrowThresholdJewel~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:BurningArrowThresholdJewel~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToBeCritJewelUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(7-10)% additional Chance to receive a [[Critical Strike]]"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToBeCritJewelUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToBeCritJewelUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosDamageIncreasedPerIntUniqueJewel2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "5% increased [[Chaos Damage]] per 10 [[Intelligence]] from Allocated Passives in Radius"
+                ]
+            },
+            "fulltext": "Modifier:ChaosDamageIncreasedPerIntUniqueJewel2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosDamageIncreasedPerIntUniqueJewel2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ClawPhysDamageAndEvasionPerDexUniqueJewel47": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "1% increased [[Evasion Rating]] per 3 [[Dexterity]] Allocated in Radius<br>1% increased [[Claw]] [[Physical Damage]] per 3 [[Dexterity]] Allocated in Radius<br>1% increased Melee [[Physical Damage]] while Unarmed per 3 [[Dexterity]] Allocated in Radius"
+                ]
+            },
+            "fulltext": "Modifier:ClawPhysDamageAndEvasionPerDexUniqueJewel47",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ClawPhysDamageAndEvasionPerDexUniqueJewel47",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CleaveThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Strength]] in Radius, [[Cleave]] grants Fortify on [[Hit]]<br>With at least 40 [[Strength]] in Radius, [[Cleave]] has 3% increased Area of<br>Effect per Nearby Enemy"
+                ]
+            },
+            "fulltext": "Modifier:CleaveThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CleaveThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdAndPhysicalNodesInRadiusSwapPropertiesUniqueJewel48~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Increases and Reductions to [[Physical Damage]] in Radius are Transformed to apply to [[Cold Damage]]<br>Increases and Reductions to [[Cold Damage]] in Radius are Transformed to apply to [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdAndPhysicalNodesInRadiusSwapPropertiesUniqueJewel48~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdAndPhysicalNodesInRadiusSwapPropertiesUniqueJewel48~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdDamagePercentUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdDamagePercentUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdDamagePercentUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdDamagePercentUnique~~12": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdDamagePercentUnique~~12",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdDamagePercentUnique~~12",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdDamagePercentUnique~~13": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdDamagePercentUnique~~13",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdDamagePercentUnique~~13",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdDamagePercentUnique~~14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(5-15)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdDamagePercentUnique~~14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdDamagePercentUnique~~14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdDamagePercentUnique~~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdDamagePercentUnique~~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdDamagePercentUnique~~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdResistAlsoGrantsFrenzyChargeOnKillJewelUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives granting [[Cold Resistance]] or all [[Elemental Resistance|Elemental Resistances]] in Radius<br>also grant an equal chance to gain a [[Frenzy Charge]] on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdResistAlsoGrantsFrenzyChargeOnKillJewelUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdResistAlsoGrantsFrenzyChargeOnKillJewelUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdResistConvertedToDodgeChanceScaledJewelUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives granting [[Cold Resistance]] or all [[Elemental Resistance|Elemental Resistances]] in Radius<br>also grant Chance to [[Dodge]] [[Attack|Attacks]] at 35% of its value"
+                ]
+            },
+            "fulltext": "Modifier:ColdResistConvertedToDodgeChanceScaledJewelUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdResistConvertedToDodgeChanceScaledJewelUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ColdsnapThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, Cold Snap<br>has a 50% chance to grant a [[Power Charge]] on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:ColdsnapThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ColdsnapThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptThresholdLifeLeechUsesChaosDamageUniqueCorruptedJewel10": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With 5 Corrupted Items Equipped: [[Life]] [[Leech]] recovers based on your [[Chaos Damage]] instead"
+                ]
+            },
+            "fulltext": "Modifier:CorruptThresholdLifeLeechUsesChaosDamageUniqueCorruptedJewel10",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptThresholdLifeLeechUsesChaosDamageUniqueCorruptedJewel10",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptThresholdPhysBypassesESUniqueCorruptedJewel12": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With 5 Corrupted Items Equipped: 50% of [[Chaos Damage]] does not bypass Energy Shield, and 50% of [[Physical Damage]] bypasses [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:CorruptThresholdPhysBypassesESUniqueCorruptedJewel12",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptThresholdPhysBypassesESUniqueCorruptedJewel12",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CorruptThresholdSoulEaterOnVaalSkillUseUniqueCorruptedJewel11": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With 5 Corrupted Items Equipped: Gain Soul Eater for 10 seconds on Vaal [[Skill]] use"
+                ]
+            },
+            "fulltext": "Modifier:CorruptThresholdSoulEaterOnVaalSkillUseUniqueCorruptedJewel11",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CorruptThresholdSoulEaterOnVaalSkillUseUniqueCorruptedJewel11",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:CurseEffectivenessUniqueJewel45": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "4% increased Effect of your [[Curse|Curses]]"
+                ]
+            },
+            "fulltext": "Modifier:CurseEffectivenessUniqueJewel45",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:CurseEffectivenessUniqueJewel45",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageOverTimeUnique ~~ ~~ 1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(8-12)% increased Damage over Time"
+                ]
+            },
+            "fulltext": "Modifier:DamageOverTimeUnique ~~ ~~ 1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageOverTimeUnique_~~_~~_1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageTakenOnFullESUniqueCorruptedJewel15": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "10% increased Damage taken while [[Energy Shield]] is Full"
+                ]
+            },
+            "fulltext": "Modifier:DamageTakenOnFullESUniqueCorruptedJewel15",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageTakenOnFullESUniqueCorruptedJewel15",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageTakenUniqueJewel24": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "10% increased Damage taken"
+                ]
+            },
+            "fulltext": "Modifier:DamageTakenUniqueJewel24",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageTakenUniqueJewel24",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexterityAndIntelligenceGiveStrengthMeleeBonusInRadiusUniqueJewel55": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Dexterity]] and [[Intelligence]] from passives in Radius count towards [[Strength]] Melee Damage bonus"
+                ]
+            },
+            "fulltext": "Modifier:DexterityAndIntelligenceGiveStrengthMeleeBonusInRadiusUniqueJewel55",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexterityAndIntelligenceGiveStrengthMeleeBonusInRadiusUniqueJewel55",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexterityUniqueJewel13": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(16-24) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:DexterityUniqueJewel13",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexterityUniqueJewel13",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexterityUniqueJewel36": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(16-24) to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:DexterityUniqueJewel36",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexterityUniqueJewel36",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DoubleStrikeThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:DoubleStrikeThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DoubleStrikeThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DualStrikeThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Dual Strike]] deals Off-Hand Splash Damage<br>to surrounding targets<br>With at least 40 [[Dexterity]] in Radius, [[Dual Strike]] has a 20% chance<br>to deal Double Damage with the Main-Hand Weapon"
+                ]
+            },
+            "fulltext": "Modifier:DualStrikeThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DualStrikeThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldInRadiusIncreasesArmourUniqueJewel50": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Increases and Reductions to [[Energy Shield]] in Radius are Transformed to apply to [[Armour]] at 200% of their value"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldInRadiusIncreasesArmourUniqueJewel50",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldInRadiusIncreasesArmourUniqueJewel50",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EnergyShieldLostOnKillPercentageUniqueCorruptedJewel14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Removes 1% of maximum [[Energy Shield]] on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:EnergyShieldLostOnKillPercentageUniqueCorruptedJewel14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EnergyShieldLostOnKillPercentageUniqueCorruptedJewel14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:EtherealKnivesThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Ethereal Knives]] fires Projectiles in a Nova<br>With at least 40 [[Dexterity]] in Radius, [[Ethereal Knives]] fires 5 additional Projectiles"
+                ]
+            },
+            "fulltext": "Modifier:EtherealKnivesThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:EtherealKnivesThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePerBuffUniqueJewel17": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds (3-5) to (8-12) Fire [[Attack Damage]] per Buff on You"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePerBuffUniqueJewel17",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePerBuffUniqueJewel17",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePercentUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePercentUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePercentUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePercentUnique~~10": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePercentUnique~~10",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePercentUnique~~10",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePercentUnique~~11": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePercentUnique~~11",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePercentUnique~~11",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePercentUnique~~3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(18-25)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePercentUnique~~3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePercentUnique~~3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePercentUnique~~9": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePercentUnique~~9",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePercentUnique~~9",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePercentUnique ~~ ~~ 2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePercentUnique ~~ ~~ 2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePercentUnique_~~_~~_2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireDamagePercentUnique ~~ ~~ ~8": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:FireDamagePercentUnique ~~ ~~ ~8",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireDamagePercentUnique_~~_~~_~8",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireResistAlsoGrantsEnduranceChargeOnKillJewelUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives granting [[Fire Resistance]] or all [[Elemental Resistance|Elemental Resistances]] in Radius<br>also grant an equal chance to gain an [[Endurance Charge]] on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:FireResistAlsoGrantsEnduranceChargeOnKillJewelUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireResistAlsoGrantsEnduranceChargeOnKillJewelUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireResistConvertedToBlockChanceScaledJewelUnique~~1~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives granting [[Fire Resistance]] or all [[Elemental Resistance|Elemental Resistances]] in Radius<br>also grant Chance to [[Block]] at 35% of its value"
+                ]
+            },
+            "fulltext": "Modifier:FireResistConvertedToBlockChanceScaledJewelUnique~~1~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireResistConvertedToBlockChanceScaledJewelUnique~~1~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireSpellDamagePerBuffUniqueJewel17": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds (2-3) to (5-8) Fire [[Spell Damage]] per Buff on You"
+                ]
+            },
+            "fulltext": "Modifier:FireSpellDamagePerBuffUniqueJewel17",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireSpellDamagePerBuffUniqueJewel17",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireTrapThresholdJewel1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Fire Trap]] throws an additional [[Trap]]"
+                ]
+            },
+            "fulltext": "Modifier:FireTrapThresholdJewel1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireTrapThresholdJewel1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireballThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, [[Fireball]] Projectiles gain Area as they travel farther, up to 50% increased Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:FireballThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireballThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FireballThresholdJewel~~2~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, [[Fireball]] Projectiles gain Radius as they travel farther, up to +4 Radius"
+                ]
+            },
+            "fulltext": "Modifier:FireballThresholdJewel~~2~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FireballThresholdJewel~~2~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FortifyOnMeleeHitUniqueJewel22": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "10% chance to Fortify on Melee [[Hit|hit]]"
+                ]
+            },
+            "fulltext": "Modifier:FortifyOnMeleeHitUniqueJewel22",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FortifyOnMeleeHitUniqueJewel22",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FreezingPulseThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, [[Freezing Pulse]] fires 2 additional Projectiles<br>With at least 40 [[Intelligence]] in Radius, 25% increased [[Freezing Pulse]] Damage if<br>you've Shattered an Enemy [[Recently]]"
+                ]
+            },
+            "fulltext": "Modifier:FreezingPulseThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FreezingPulseThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FrostBladesThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, Melee Damage<br>dealt by [[Frost Blades]] Penetrates 15% [[Cold Resistance]]<br>With at least 40 [[Dexterity]] in Radius, [[Frost Blades]] has 25% increased Projectile Speed"
+                ]
+            },
+            "fulltext": "Modifier:FrostBladesThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FrostBladesThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FrostboltThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, [[Frostbolt]] Projectiles gain 40% increased Projectile Speed per second<br>With at least 40 [[Intelligence]] in Radius, [[Frostbolt]] fires 2 additional Projectiles"
+                ]
+            },
+            "fulltext": "Modifier:FrostboltThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FrostboltThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:GlacialHammerThresholdJewel~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Strength]] in Radius, [[Glacial Hammer]] deals<br>Cold-only Splash Damage to surrounding targets<br>With at least 40 [[Strength]] in Radius, 25% of Glacial<br>Hammer [[Physical Damage]] converted to [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:GlacialHammerThresholdJewel~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:GlacialHammerThresholdJewel~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:GlacialHammerThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Strength]] in Radius, 20% increased<br>Rarity of Items dropped by Enemies Shattered by [[Glacial Hammer]]"
+                ]
+            },
+            "fulltext": "Modifier:GlacialHammerThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:GlacialHammerThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:HeavyStrikeThresholdJewel ~~ ~~ 1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Strength]] in Radius, [[Heavy Strike]] has a <br>20% chance to deal Double Damage"
+                ]
+            },
+            "fulltext": "Modifier:HeavyStrikeThresholdJewel ~~ ~~ 1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:HeavyStrikeThresholdJewel_~~_~~_1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IceShotThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Ice Shot]] has 25% increased Area of Effect<br>With at least 40 [[Dexterity]] in Radius, [[Ice Shot]] Pierces 5 additional Targets"
+                ]
+            },
+            "fulltext": "Modifier:IceShotThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IceShotThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IceShotThresholdJewel~~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Ice Shot]] has 25% increased Area of Effect<br>With at least 40 [[Dexterity]] in Radius, [[Ice Shot]] Pierces 5 additional Targets"
+                ]
+            },
+            "fulltext": "Modifier:IceShotThresholdJewel~~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IceShotThresholdJewel~~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedCorruptedGemExperienceUniqueCorruptedJewel9": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "10% increased Experience Gain for Corrupted Gems"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedCorruptedGemExperienceUniqueCorruptedJewel9",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedCorruptedGemExperienceUniqueCorruptedJewel9",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedDamagePerCurseOnSelfCorruptedJewel13~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% increased Damage per [[Curse]] on You"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedDamagePerCurseOnSelfCorruptedJewel13~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedDamagePerCurseOnSelfCorruptedJewel13~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedDamagePerMagicItemJewel25": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(20-25)% increased Damage for each Magic Item you have equipped"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedDamagePerMagicItemJewel25",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedDamagePerMagicItemJewel25",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedDamageWhileLeechingLifeUniqueJewel19": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(25-30)% increased Damage while Leeching"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedDamageWhileLeechingLifeUniqueJewel19",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedDamageWhileLeechingLifeUniqueJewel19",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedFlaskEffectUniqueJewel45": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "8% increased effect of Flasks"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedFlaskEffectUniqueJewel45",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedFlaskEffectUniqueJewel45",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedPhysicalDamagePercentUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(8-12)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedPhysicalDamagePercentUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedPhysicalDamagePercentUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedPhysicalDamagePercentUnique~~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(8-12)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedPhysicalDamagePercentUnique~~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedPhysicalDamagePercentUnique~~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedPhysicalDamagePercentUnique~~5": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedPhysicalDamagePercentUnique~~5",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedPhysicalDamagePercentUnique~~5",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedPhysicalDamagePercentUnique~~6": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedPhysicalDamagePercentUnique~~6",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedPhysicalDamagePercentUnique~~6",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedPhysicalDamagePercentUnique~~7": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedPhysicalDamagePercentUnique~~7",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedPhysicalDamagePercentUnique~~7",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedPhysicalDamageReductionRatingPercentUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedPhysicalDamageReductionRatingPercentUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedPhysicalDamageReductionRatingPercentUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedProjectileDamageUnique~~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(7-10)% increased Projectile Damage"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedProjectileDamageUnique~~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedProjectileDamageUnique~~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedProjectileDamageUnique~~7": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(7-10)% increased Projectile Damage"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedProjectileDamageUnique~~7",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedProjectileDamageUnique~~7",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedProjectileDamageUnique ~~ ~~ 3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(7-10)% increased Projectile Damage"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedProjectileDamageUnique ~~ ~~ 3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedProjectileDamageUnique_~~_~~_3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedProjectileDamageUnique ~~ ~~ 8": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(7-10)% increased Projectile Damage"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedProjectileDamageUnique ~~ ~~ 8",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedProjectileDamageUnique_~~_~~_8",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedProjectileDamageUnique ~~ ~~ 9": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(7-10)% increased Projectile Damage"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedProjectileDamageUnique ~~ ~~ 9",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedProjectileDamageUnique_~~_~~_9",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntelligenceUniqueJewel11": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(16-24) to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:IntelligenceUniqueJewel11",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntelligenceUniqueJewel11",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntelligenceUniqueJewel35": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(16-24) to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:IntelligenceUniqueJewel35",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntelligenceUniqueJewel35",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueCorruptedJewel10": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueCorruptedJewel10",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueCorruptedJewel10",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueCorruptedJewel11": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueCorruptedJewel11",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueCorruptedJewel11",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueCorruptedJewel12~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueCorruptedJewel12~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueCorruptedJewel12~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueCorruptedJewel13": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueCorruptedJewel13",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueCorruptedJewel13",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueCorruptedJewel7": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueCorruptedJewel7",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueCorruptedJewel7",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueCorruptedJewel8": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueCorruptedJewel8",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueCorruptedJewel8",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueCorruptedJewel9": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueCorruptedJewel9",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueCorruptedJewel9",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel10": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel10",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel10",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel15": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel15",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel15",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel17": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel17",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel17",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel18": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel18",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel18",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel20": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel20",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel20",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel25": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel25",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel25",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel26": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel26",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel26",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel30": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel30",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel30",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel32": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel32",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel32",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel33": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel33",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel33",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel4": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel4",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel4",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel41": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel41",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel41",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel42": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel42",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel42",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel43": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel43",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel43",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel44": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel44",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel44",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel45": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel45",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel45",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel46": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel46",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel46",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel8": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel8",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel8",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUniqueJewel9": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUniqueJewel9",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUniqueJewel9",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~29": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~29",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~29",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~30": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~30",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~30",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~31": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~31",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~31",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~32": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~32",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~32",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~33": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~33",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~33",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~34": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~34",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~34",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~35": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~35",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~35",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~36": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~36",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~36",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~37": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~37",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~37",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~10": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~10",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~10",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~11": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~11",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~11",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~12": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~12",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~12",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~13": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~13",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~13",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~15": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~15",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~15",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~16": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~16",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~16",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~17": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~17",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~17",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~18": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~18",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~18",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~20": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~20",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~20",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~21": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~21",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~21",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~22": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~22",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~22",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~23": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~23",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~23",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~25": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~25",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~25",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~26": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~26",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~26",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~27": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~27",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~27",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~28": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~28",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~28",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~4": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~4",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~4",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~5": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~5",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~5",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~6": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~6",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~6",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~7": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~7",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~7",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~8": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~8",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~8",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique~~9": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique~~9",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique~~9",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique ~~ ~~ 19": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique ~~ ~~ 19",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique_~~_~~_19",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ItemLimitUnique ~~ ~~ 24": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:ItemLimitUnique ~~ ~~ 24",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ItemLimitUnique_~~_~~_24",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelDexToInt": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Dexterity]] from Passives in Radius is Transformed to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelDexToInt",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelDexToInt",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelDexToIntUniqueJewel11": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Dexterity]] from Passives in Radius is Transformed to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelDexToIntUniqueJewel11",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelDexToIntUniqueJewel11",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelDexToStr": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Dexterity]] from Passives in Radius is Transformed to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelDexToStr",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelDexToStr",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelDexToStrUniqueJewel37": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Dexterity]] from Passives in Radius is Transformed to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelDexToStrUniqueJewel37",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelDexToStrUniqueJewel37",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelIntToDex": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Intelligence]] from Passives in Radius is Transformed to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelIntToDex",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelIntToDex",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelIntToDexUniqueJewel36": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Intelligence]] from Passives in Radius is Transformed to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelIntToDexUniqueJewel36",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelIntToDexUniqueJewel36",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelIntToStr": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Intelligence]] from Passives in Radius is Transformed to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelIntToStr",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelIntToStr",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelIntToStrUniqueJewel34": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Intelligence]] from Passives in Radius is Transformed to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelIntToStrUniqueJewel34",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelIntToStrUniqueJewel34",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelStrToDex": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Strength]] from Passives in Radius is Transformed to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelStrToDex",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelStrToDex",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelStrToDexUniqueJewel13": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Strength]] from Passives in Radius is Transformed to [[Dexterity]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelStrToDexUniqueJewel13",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelStrToDexUniqueJewel13",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelStrToInt": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Strength]] from Passives in Radius is Transformed to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelStrToInt",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelStrToInt",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelStrToIntUniqueJewel35": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Strength]] from Passives in Radius is Transformed to [[Intelligence]]"
+                ]
+            },
+            "fulltext": "Modifier:JewelStrToIntUniqueJewel35",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelStrToIntUniqueJewel35",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:JewelUniqueAllocateDisconnectedPassives": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives in Radius can be Allocated without being connected to your tree"
+                ]
+            },
+            "fulltext": "Modifier:JewelUniqueAllocateDisconnectedPassives",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:JewelUniqueAllocateDisconnectedPassives",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeInRadiusBecomesEnergyShieldAtHalfValueUniqueJewel51": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Increases and Reductions to [[Life]] in Radius are Transformed to apply to [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeInRadiusBecomesEnergyShieldAtHalfValueUniqueJewel51",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeInRadiusBecomesEnergyShieldAtHalfValueUniqueJewel51",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeLeechJewel": {
+            "printouts": {
+                "Has name": [
+                    "Hungering"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeLeechJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeLeechJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeLostOnKillPercentageUniqueCorruptedJewel14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Removes 1% of maximum [[Life]] on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeLostOnKillPercentageUniqueCorruptedJewel14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeLostOnKillPercentageUniqueCorruptedJewel14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeOnCorpseRemovalUniqueJewel14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Recover 2% of your Maximum [[Life]] when you Consume or Destroy a Corpse"
+                ]
+            },
+            "fulltext": "Modifier:LifeOnCorpseRemovalUniqueJewel14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeOnCorpseRemovalUniqueJewel14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeOnHitPerStatusAilmentOnEnemyUniqueJewel33": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+3 [[Life]] gained for each Elemental Ailment on Enemies [[Hit|hit]] by your [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeOnHitPerStatusAilmentOnEnemyUniqueJewel33",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeOnHitPerStatusAilmentOnEnemyUniqueJewel33",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeOnSpellHitPerStatusAilmentOnEnemyUniqueJewel33": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+3 [[Life]] gained for each Elemental Ailment on Enemies [[Hit|hit]] by your [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:LifeOnSpellHitPerStatusAilmentOnEnemyUniqueJewel33",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeOnSpellHitPerStatusAilmentOnEnemyUniqueJewel33",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifePassivesBecomeManaPassivesInRadiusUniqueJewel54": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Increases and Reductions to [[Life]] in Radius are Transformed to apply to [[Mana]] at 200% of their value"
+                ]
+            },
+            "fulltext": "Modifier:LifePassivesBecomeManaPassivesInRadiusUniqueJewel54",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifePassivesBecomeManaPassivesInRadiusUniqueJewel54",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifePerIntelligenceInRadusUniqueJewel52": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds 1 to Maximum [[Life]] per 3 [[Intelligence]] Allocated in Radius"
+                ]
+            },
+            "fulltext": "Modifier:LifePerIntelligenceInRadusUniqueJewel52",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifePerIntelligenceInRadusUniqueJewel52",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningDamagePercentUnique~~5": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningDamagePercentUnique~~5",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningDamagePercentUnique~~5",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningDamagePercentUnique~~6": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningDamagePercentUnique~~6",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningDamagePercentUnique~~6",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningDamagePercentUnique ~~ ~~ 1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningDamagePercentUnique ~~ ~~ 1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningDamagePercentUnique_~~_~~_1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningResistAlsoGrantsPowerChargeOnKillJewelUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives granting [[Lightning Resistance]] or all [[Elemental Resistance|Elemental Resistances]] in Radius<br>also grant an equal chance to gain a [[Power Charge]] on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningResistAlsoGrantsPowerChargeOnKillJewelUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningResistAlsoGrantsPowerChargeOnKillJewelUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningResistConvertedToSpellBlockChanceScaledJewelUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives granting [[Lightning Resistance]] or all [[Elemental Resistance|Elemental Resistances]] in Radius<br>also grant Chance to [[Block]] [[Spell|Spells]] at 35% of its value"
+                ]
+            },
+            "fulltext": "Modifier:LightningResistConvertedToSpellBlockChanceScaledJewelUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningResistConvertedToSpellBlockChanceScaledJewelUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LightningTendrilsThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, each [[Lightning Tendrils]] Repeat has 4% increased Area of Effect per Enemy [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:LightningTendrilsThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LightningTendrilsThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MagmaOrbThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, Magma Orb<br>has 10% increased Area of Effect per Chain<br>With at least 40 [[Intelligence]] in Radius, [[Magma Orb]] fires an additional Projectile"
+                ]
+            },
+            "fulltext": "Modifier:MagmaOrbThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MagmaOrbThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaCostIncreasedUniqueCorruptedJewel3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "100% increased [[Mana]] Cost of [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaCostIncreasedUniqueCorruptedJewel3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaCostIncreasedUniqueCorruptedJewel3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaCostOfTotemAurasUniqueCorruptedJewel8": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "60% reduced [[Mana]] Cost of [[Totem]] [[Skill|Skills]] that cast an Aura"
+                ]
+            },
+            "fulltext": "Modifier:ManaCostOfTotemAurasUniqueCorruptedJewel8",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaCostOfTotemAurasUniqueCorruptedJewel8",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaCostReductionUniqueJewel44": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "3% reduced [[Mana]] Cost of [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaCostReductionUniqueJewel44",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaCostReductionUniqueJewel44",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaGainedOnKillPercentageUniqueCorruptedJewel14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "1% of maximum [[Mana]] gained on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaGainedOnKillPercentageUniqueCorruptedJewel14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaGainedOnKillPercentageUniqueCorruptedJewel14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaLeechJewel": {
+            "printouts": {
+                "Has name": [
+                    "Thirsting"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:ManaLeechJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaLeechJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaRegenerationUniqueJewel30": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(20-30)% increased [[Mana]] Regeneration Rate"
+                ]
+            },
+            "fulltext": "Modifier:ManaRegenerationUniqueJewel30",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaRegenerationUniqueJewel30",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaRegenerationUniqueJewel43": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "10% increased [[Mana]] Regeneration Rate"
+                ]
+            },
+            "fulltext": "Modifier:ManaRegenerationUniqueJewel43",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaRegenerationUniqueJewel43",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MaximumManaUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(7-10)% increased maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:MaximumManaUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MaximumManaUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionDodgeChanceUniqueJewel16": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Minion|Minions]] have (2-5)% additional chance to [[Dodge]] [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:MinionDodgeChanceUniqueJewel16",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionDodgeChanceUniqueJewel16",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionElementalResistancesUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Minion|Minions]] have +(7-10)% to all [[Elemental Resistance|Elemental Resistances]]"
+                ]
+            },
+            "fulltext": "Modifier:MinionElementalResistancesUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionElementalResistancesUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MinionLifeRecoveryOnBlockUniqueJewel18": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Minion|Minions]] Recover 2% of their Maximum [[Life]] when they [[Block]]"
+                ]
+            },
+            "fulltext": "Modifier:MinionLifeRecoveryOnBlockUniqueJewel18",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MinionLifeRecoveryOnBlockUniqueJewel18",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MoltenStrikeThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Strength]] in Radius, [[Molten Strike]] fires 2 additional Projectiles<br>With at least 40 [[Strength]] in Radius, [[Molten Strike]] has 25% increased Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:MoltenStrikeThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MoltenStrikeThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:MovementVelocityWhileIgnitedUniqueJewel20": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Movement Speed]] while Ignited"
+                ]
+            },
+            "fulltext": "Modifier:MovementVelocityWhileIgnitedUniqueJewel20",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:MovementVelocityWhileIgnitedUniqueJewel20",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PassivesApplyToMinionsUniqueJewel7": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Passives in Radius apply to [[Minion|Minions]] instead of you"
+                ]
+            },
+            "fulltext": "Modifier:PassivesApplyToMinionsUniqueJewel7",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PassivesApplyToMinionsUniqueJewel7",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PercentIncreasedAccuracyJewelUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "20% increased [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:PercentIncreasedAccuracyJewelUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PercentIncreasedAccuracyJewelUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PhysicalDamagePercentUnique ~~ ~~ 1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:PhysicalDamagePercentUnique ~~ ~~ 1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PhysicalDamagePercentUnique_~~_~~_1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PierceChanceUniqueJewel41": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Projectiles Pierce an additional Target"
+                ]
+            },
+            "fulltext": "Modifier:PierceChanceUniqueJewel41",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PierceChanceUniqueJewel41",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ProjectileDamageJewelUniqueJewel41": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "10% increased Projectile Damage"
+                ]
+            },
+            "fulltext": "Modifier:ProjectileDamageJewelUniqueJewel41",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ProjectileDamageJewelUniqueJewel41",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PunishmentSelfCurseOnKillUniqueCorruptedJewel13": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(20-30)% chance to be cursed with [[Level]] 10 [[Punishment]] on [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:PunishmentSelfCurseOnKillUniqueCorruptedJewel13",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PunishmentSelfCurseOnKillUniqueCorruptedJewel13",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:RaiseZombieThresholdJewel1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, Raised<br>Zombies' Slam [[Attack]] has 100% increased Cooldown Recovery Speed<br>With at least 40 [[Intelligence]] in Radius, Raised Zombies' Slam<br>Attack deals 30% increased Damage"
+                ]
+            },
+            "fulltext": "Modifier:RaiseZombieThresholdJewel1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:RaiseZombieThresholdJewel1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:RallyingCryThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, 10% of Damage taken gained as [[Mana]] over 4 seconds when [[Hit]] during [[Rallying Cry]] for you and Allies"
+                ]
+            },
+            "fulltext": "Modifier:RallyingCryThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:RallyingCryThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ShrapnelShotThresholdJewel~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, Shrapnel Shot's<br>cone has a 50% chance to deal Double Damage<br>With at least 40 [[Dexterity]] in Radius, [[Shrapnel Shot]] has 25% increased Area of Effect"
+                ]
+            },
+            "fulltext": "Modifier:ShrapnelShotThresholdJewel~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ShrapnelShotThresholdJewel~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SilenceImmunityUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "You cannot be Cursed with Silence"
+                ]
+            },
+            "fulltext": "Modifier:SilenceImmunityUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SilenceImmunityUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SparkThresholdJewel1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, 2 additional [[Spark]] Projectiles"
+                ]
+            },
+            "fulltext": "Modifier:SparkThresholdJewel1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SparkThresholdJewel1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SparkThresholdJewel~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Intelligence]] in Radius, [[Spark]] fires Projectiles in a Nova<br>With at least 40 [[Intelligence]] in Radius, [[Spark]] fires 2 additional Projectiles"
+                ]
+            },
+            "fulltext": "Modifier:SparkThresholdJewel~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SparkThresholdJewel~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpectralThrowThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, each [[Spectral Throw]] Projectile gains 5% increased Damage each time it [[Hit|Hits]]"
+                ]
+            },
+            "fulltext": "Modifier:SpectralThrowThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpectralThrowThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellDamageWithNoManaReservedUniqueJewel30": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(40-60)% increased [[Spell Damage]] while no [[Mana]] is Reserved"
+                ]
+            },
+            "fulltext": "Modifier:SpellDamageWithNoManaReservedUniqueJewel30",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellDamageWithNoManaReservedUniqueJewel30",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellLifeLeechJewel": {
+            "printouts": {
+                "Has name": [
+                    "Transfusing"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Spell Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellLifeLeechJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellLifeLeechJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SpellManaLeechJewel": {
+            "printouts": {
+                "Has name": [
+                    "Siphoning"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Spell Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:SpellManaLeechJewel",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SpellManaLeechJewel",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SplitArrowThresholdJewel1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Split Arrow]] fires Projectiles in Parallel"
+                ]
+            },
+            "fulltext": "Modifier:SplitArrowThresholdJewel1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SplitArrowThresholdJewel1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StealRareModUniqueJewel3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "If 4 Notables are Allocated in Radius, When you [[Kill]] a Rare monster, you gain 1 of its mods for 20 seconds"
+                ]
+            },
+            "fulltext": "Modifier:StealRareModUniqueJewel3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StealRareModUniqueJewel3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrengthUniqueJewel34": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(16-24) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrengthUniqueJewel34",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrengthUniqueJewel34",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrengthUniqueJewel37": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(16-24) to [[Strength]]"
+                ]
+            },
+            "fulltext": "Modifier:StrengthUniqueJewel37",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrengthUniqueJewel37",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TotemLifePerStrengthUniqueJewel15": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "3% increased [[Totem]] [[Life]] per 10 [[Strength]] Allocated in Radius"
+                ]
+            },
+            "fulltext": "Modifier:TotemLifePerStrengthUniqueJewel15",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TotemLifePerStrengthUniqueJewel15",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:TotemsCannotBeStunnedUniqueJewel15": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "[[Totem|Totems]] cannot be Stunned"
+                ]
+            },
+            "fulltext": "Modifier:TotemsCannotBeStunnedUniqueJewel15",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:TotemsCannotBeStunnedUniqueJewel15",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:UnarmedAreaOfEffectUniqueJewel4": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-15)% increased Area of Effect while Unarmed"
+                ]
+            },
+            "fulltext": "Modifier:UnarmedAreaOfEffectUniqueJewel4",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:UnarmedAreaOfEffectUniqueJewel4",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:UnholyMightOnMeleeKillUniqueJewel28": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "5% chance to Gain Unholy Might for 4 seconds on Melee [[Kill]]"
+                ]
+            },
+            "fulltext": "Modifier:UnholyMightOnMeleeKillUniqueJewel28",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:UnholyMightOnMeleeKillUniqueJewel28",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:UniqueJewelMeleeToBow": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Melee and Melee Weapon Type modifiers in Radius are Transformed to [[Bow]] Modifiers"
+                ]
+            },
+            "fulltext": "Modifier:UniqueJewelMeleeToBow",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:UniqueJewelMeleeToBow",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:VaalSkillCriticalStrikeChanceCorruptedJewel6": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(80-120)% increased Vaal [[Skill]] [[Critical Strike Chance]]"
+                ]
+            },
+            "fulltext": "Modifier:VaalSkillCriticalStrikeChanceCorruptedJewel6",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:VaalSkillCriticalStrikeChanceCorruptedJewel6",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:VaalSkillCriticalStrikeMultiplierCorruptedJewel6": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(22-30)% to Vaal [[Skill]] [[Critical Strike Multiplier]]"
+                ]
+            },
+            "fulltext": "Modifier:VaalSkillCriticalStrikeMultiplierCorruptedJewel6",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:VaalSkillCriticalStrikeMultiplierCorruptedJewel6",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:VaalSkillDurationUniqueCorruptedJewel5": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(15-20)% increased Vaal [[Skill]] Effect Duration"
+                ]
+            },
+            "fulltext": "Modifier:VaalSkillDurationUniqueCorruptedJewel5",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:VaalSkillDurationUniqueCorruptedJewel5",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:VigilantStrikeThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Strength]] in Radius, Vigilant Strike<br>Fortifies you and Nearby Allies for 12 seconds"
+                ]
+            },
+            "fulltext": "Modifier:VigilantStrikeThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:VigilantStrikeThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ViperStrikeThresholdJewel~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Viper Strike]] deals 2% increased Damage with [[Hit|Hits]] and [[Poison]] for each [[Poison]] on the Enemy"
+                ]
+            },
+            "fulltext": "Modifier:ViperStrikeThresholdJewel~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ViperStrikeThresholdJewel~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ViperStrikeThresholdJewel~~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "With at least 40 [[Dexterity]] in Radius, [[Viper Strike]] has a 10% chance per [[Poison]] on Enemy to grant Unholy Might for 4 seconds on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:ViperStrikeThresholdJewel~~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ViperStrikeThresholdJewel~~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:WeaponElementalDamageUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(4-12)% increased [[Elemental Damage]] with [[Attack]] [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:WeaponElementalDamageUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:WeaponElementalDamageUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 219
+}

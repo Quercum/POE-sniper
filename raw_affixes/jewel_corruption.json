@@ -1,0 +1,228 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:AddedChaosDamageJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Adds 1 to (2-3) [[Chaos Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:AddedChaosDamageJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:AddedChaosDamageJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChanceToBeCritJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-5)% additional Chance to receive a [[Critical Strike]]"
+                ]
+            },
+            "fulltext": "Modifier:ChanceToBeCritJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChanceToBeCritJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosDamagePerCorruptedItemJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "1% increased [[Chaos Damage]] per equipped Corrupted Item"
+                ]
+            },
+            "fulltext": "Modifier:ChaosDamagePerCorruptedItemJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosDamagePerCorruptedItemJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ChaosResistJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+(1-3)% to [[Chaos Resistance]]"
+                ]
+            },
+            "fulltext": "Modifier:ChaosResistJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ChaosResistJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DamageWhileDeadJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(20-30)% increased Damage while Dead"
+                ]
+            },
+            "fulltext": "Modifier:DamageWhileDeadJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DamageWhileDeadJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IncreasedChargeDurationJewelCorrupted~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-7)% increased Endurance, [[Frenzy]] and [[Power Charge]] Duration"
+                ]
+            },
+            "fulltext": "Modifier:IncreasedChargeDurationJewelCorrupted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IncreasedChargeDurationJewelCorrupted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:LifeLeechRatePerCorruptedItemJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "1% increased [[Life]] Leeched per second per equipped Corrupted Item"
+                ]
+            },
+            "fulltext": "Modifier:LifeLeechRatePerCorruptedItemJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:LifeLeechRatePerCorruptedItemJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ManaLeechRatePerCorruptedItemJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "1% increased [[Mana]] Leeched per second per equipped Corrupted Item"
+                ]
+            },
+            "fulltext": "Modifier:ManaLeechRatePerCorruptedItemJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ManaLeechRatePerCorruptedItemJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ReducedCharacterSizeJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "1% reduced [[Character Size]]"
+                ]
+            },
+            "fulltext": "Modifier:ReducedCharacterSizeJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ReducedCharacterSizeJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ReducedChillDurationJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-5)% reduced Chill Duration on You"
+                ]
+            },
+            "fulltext": "Modifier:ReducedChillDurationJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ReducedChillDurationJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ReducedFreezeDurationJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-5)% reduced [[Freeze]] Duration on You"
+                ]
+            },
+            "fulltext": "Modifier:ReducedFreezeDurationJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ReducedFreezeDurationJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ReducedIgniteDurationJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-5)% reduced [[Ignite]] Duration on You"
+                ]
+            },
+            "fulltext": "Modifier:ReducedIgniteDurationJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ReducedIgniteDurationJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:ReducedShockDurationJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(3-5)% reduced [[Shock]] Duration on You"
+                ]
+            },
+            "fulltext": "Modifier:ReducedShockDurationJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:ReducedShockDurationJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:SilenceImmunityJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "You cannot be Cursed with Silence"
+                ]
+            },
+            "fulltext": "Modifier:SilenceImmunityJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:SilenceImmunityJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:VaalSkillDamageJewelCorrupted": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(5-10)% increased Vaal [[Skill]] Damage"
+                ]
+            },
+            "fulltext": "Modifier:VaalSkillDamageJewelCorrupted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:VaalSkillDamageJewelCorrupted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 15
+}

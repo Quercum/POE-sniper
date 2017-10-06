@@ -1,0 +1,273 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:FlaskChanceRechargeOnCrit1": {
+            "printouts": {
+                "Has name": [
+                    "Surgeon's"
+                ],
+                "Has stat text": [
+                    "20% chance to gain a Flask [[Charge]] when you deal a [[Critical Strike]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChanceRechargeOnCrit1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChanceRechargeOnCrit1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesAddedIncreasePercent1": {
+            "printouts": {
+                "Has name": [
+                    "Perpetual"
+                ],
+                "Has stat text": [
+                    "(20-40)% increased [[Charge]] Recovery"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesAddedIncreasePercent1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesAddedIncreasePercent1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesUsed1": {
+            "printouts": {
+                "Has name": [
+                    "Chemist's"
+                ],
+                "Has stat text": [
+                    "(25-20)% reduced [[Charge|Charges]] used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesUsed1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesUsed1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskEffectReducedDuration1": {
+            "printouts": {
+                "Has name": [
+                    "Alchemist's"
+                ],
+                "Has stat text": [
+                    "33% reduced Duration<br>25% increased effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskEffectReducedDuration1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskEffectReducedDuration1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskExtraCharges1": {
+            "printouts": {
+                "Has name": [
+                    "Ample"
+                ],
+                "Has stat text": [
+                    "+(10-20) to Maximum [[Charge|Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskExtraCharges1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskExtraCharges1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskExtraLifeCostsMana1": {
+            "printouts": {
+                "Has name": [
+                    "Sapping"
+                ],
+                "Has stat text": [
+                    "40% increased [[Life]] Recovered<br>Removes 10% of [[Life]] Recovered from [[Mana]] when used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskExtraLifeCostsMana1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskExtraLifeCostsMana1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskExtraManaCostsLife1": {
+            "printouts": {
+                "Has name": [
+                    "Caustic"
+                ],
+                "Has stat text": [
+                    "60% increased [[Mana]] Recovered<br>Removes 15% of [[Mana]] Recovered from [[Life]] when used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskExtraManaCostsLife1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskExtraManaCostsLife1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskFullInstantRecovery1": {
+            "printouts": {
+                "Has name": [
+                    "Seething"
+                ],
+                "Has stat text": [
+                    "Instant Recovery<br>66% reduced Amount Recovered"
+                ]
+            },
+            "fulltext": "Modifier:FlaskFullInstantRecovery1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskFullInstantRecovery1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskFullRechargeOnCrit1": {
+            "printouts": {
+                "Has name": [
+                    "Surgeon's"
+                ],
+                "Has stat text": [
+                    "Recharges 1 [[Charge]] when you deal a [[Critical Strike]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskFullRechargeOnCrit1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskFullRechargeOnCrit1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskFullRechargeOnTakeCrit1": {
+            "printouts": {
+                "Has name": [
+                    "Avenger's"
+                ],
+                "Has stat text": [
+                    "Recharges 3 [[Charge|Charges]] when you take a [[Critical Strike]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskFullRechargeOnTakeCrit1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskFullRechargeOnTakeCrit1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedDuration2": {
+            "printouts": {
+                "Has name": [
+                    "Experimenter's"
+                ],
+                "Has stat text": [
+                    "(30-40)% increased Duration"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedDuration2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedDuration2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedRecoveryAmount1": {
+            "printouts": {
+                "Has name": [
+                    "Saturated"
+                ],
+                "Has stat text": [
+                    "50% increased Amount Recovered<br>33% reduced Recovery Speed"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedRecoveryAmount1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedRecoveryAmount1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedRecoveryOnLowLife1": {
+            "printouts": {
+                "Has name": [
+                    "Cautious"
+                ],
+                "Has stat text": [
+                    "100% increased Recovery when on Low [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedRecoveryOnLowLife1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedRecoveryOnLowLife1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedRecoverySpeed1": {
+            "printouts": {
+                "Has name": [
+                    "Catalysed"
+                ],
+                "Has stat text": [
+                    "50% increased Recovery Speed"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedRecoverySpeed1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedRecoverySpeed1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskInstantRecoveryOnLowLife1": {
+            "printouts": {
+                "Has name": [
+                    "Panicked"
+                ],
+                "Has stat text": [
+                    "Instant Recovery when on Low [[Life]]<br>25% reduced Amount Recovered"
+                ]
+            },
+            "fulltext": "Modifier:FlaskInstantRecoveryOnLowLife1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskInstantRecoveryOnLowLife1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskPartialInstantRecovery1": {
+            "printouts": {
+                "Has name": [
+                    "Bubbling"
+                ],
+                "Has stat text": [
+                    "50% of Recovery applied Instantly<br>50% reduced Amount Recovered<br>135% increased Recovery Speed"
+                ]
+            },
+            "fulltext": "Modifier:FlaskPartialInstantRecovery1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskPartialInstantRecovery1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 16
+}

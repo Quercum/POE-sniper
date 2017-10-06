@@ -1,0 +1,2343 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:DexMasterAddedColdDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Icy"
+                ],
+                "Has stat text": [
+                    "Adds (8-11) to (16-19) [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedColdDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedColdDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAddedColdDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Frigid"
+                ],
+                "Has stat text": [
+                    "Adds (12-16) to (23-28) [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedColdDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedColdDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAddedFireDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Smoking"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (20-23) [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedFireDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedFireDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAddedFireDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Burning"
+                ],
+                "Has stat text": [
+                    "Adds (15-19) to (29-34) [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedFireDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedFireDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAddedLightningDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Snapping"
+                ],
+                "Has stat text": [
+                    "Adds (1-3) to (34-36) [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedLightningDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedLightningDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAddedLightningDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Crackling"
+                ],
+                "Has stat text": [
+                    "Adds (1-4) to (50-52) [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedLightningDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedLightningDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAddedPhysicalDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Polished"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (20-25) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedPhysicalDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedPhysicalDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAddedPhysicalDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Honed"
+                ],
+                "Has stat text": [
+                    "Adds (14-18) to (26-31) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAddedPhysicalDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAddedPhysicalDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterAttackProjectilesReturnCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Lodestone"
+                ],
+                "Has stat text": [
+                    "[[Attack]] Projectiles Return to You after hitting targets"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterAttackProjectilesReturnCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterAttackProjectilesReturnCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterEnergyShieldCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Glowing"
+                ],
+                "Has stat text": [
+                    "+(14-16) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterEnergyShieldCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterEnergyShieldCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterEnergyShieldCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Radiating"
+                ],
+                "Has stat text": [
+                    "+(17-20) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterEnergyShieldCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterEnergyShieldCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterEnergyShieldCrafted3": {
+            "printouts": {
+                "Has name": [
+                    "Pulsing"
+                ],
+                "Has stat text": [
+                    "+(21-23) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterEnergyShieldCrafted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterEnergyShieldCrafted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterIncreasedPhysicalDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Wicked"
+                ],
+                "Has stat text": [
+                    "(40-59)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterIncreasedPhysicalDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterIncreasedPhysicalDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterIncreasedPhysicalDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Vicious"
+                ],
+                "Has stat text": [
+                    "(60-79)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterIncreasedPhysicalDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterIncreasedPhysicalDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterItemGenerationCannotChangeSuffixes": {
+            "printouts": {
+                "Has name": [
+                    "Suffixed"
+                ],
+                "Has stat text": [
+                    "Suffixes Cannot Be Changed"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterItemGenerationCannotChangeSuffixes",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterItemGenerationCannotChangeSuffixes",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLifeCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Stalwart"
+                ],
+                "Has stat text": [
+                    "+(35-44) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLifeCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLifeCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLifeCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Stout"
+                ],
+                "Has stat text": [
+                    "+(45-54) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLifeCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLifeCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLifeCrafted3": {
+            "printouts": {
+                "Has name": [
+                    "Robust"
+                ],
+                "Has stat text": [
+                    "+(55-64) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLifeCrafted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLifeCrafted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterLifeFlaskRecoveryRateCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Recovering"
+                ],
+                "Has stat text": [
+                    "(5-15)% increased Flask [[Life]] Recovery rate"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterLifeFlaskRecoveryRateCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterLifeFlaskRecoveryRateCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterManaFlaskRecoveryRateCrafted~": {
+            "printouts": {
+                "Has name": [
+                    "Inspiring"
+                ],
+                "Has stat text": [
+                    "(5-15)% increased Flask [[Mana]] Recovery rate"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterManaFlaskRecoveryRateCrafted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterManaFlaskRecoveryRateCrafted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterMovementVelocityCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Jogger's"
+                ],
+                "Has stat text": [
+                    "(1-5)% increased [[Movement Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterMovementVelocityCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterMovementVelocityCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterMovementVelocityCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Runner's"
+                ],
+                "Has stat text": [
+                    "(8-12)% increased [[Movement Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterMovementVelocityCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterMovementVelocityCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterMovementVelocityCrafted3": {
+            "printouts": {
+                "Has name": [
+                    "Sprinter's"
+                ],
+                "Has stat text": [
+                    "(13-17)% increased [[Movement Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterMovementVelocityCrafted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterMovementVelocityCrafted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterPhysicalAccuracyHybridCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Journeyman's"
+                ],
+                "Has stat text": [
+                    "(30-39)% increased [[Physical Damage]]<br>+(15-40) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterPhysicalAccuracyHybridCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterPhysicalAccuracyHybridCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterPhysicalAccuracyHybridCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Reaver's"
+                ],
+                "Has stat text": [
+                    "(40-49)% increased [[Physical Damage]]<br>+(41-55) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterPhysicalAccuracyHybridCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterPhysicalAccuracyHybridCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterPhysicalDamageWandCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Polished"
+                ],
+                "Has stat text": [
+                    "Adds (7-9) to (13-16) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterPhysicalDamageWandCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterPhysicalDamageWandCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterPhysicalDamageWandCrafted2~": {
+            "printouts": {
+                "Has name": [
+                    "Honed"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (17-20) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterPhysicalDamageWandCrafted2~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterPhysicalDamageWandCrafted2~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:DexMasterWeaponElementalDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Catalyzing"
+                ],
+                "Has stat text": [
+                    "(8-22)% increased [[Elemental Damage]] with [[Attack]] [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:DexMasterWeaponElementalDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:DexMasterWeaponElementalDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedColdDamageSpells2HCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Icy"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (19-23) [[Cold Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedColdDamageSpells2HCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedColdDamageSpells2HCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedColdDamageSpells2HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Frigid"
+                ],
+                "Has stat text": [
+                    "Adds (14-19) to (28-33) [[Cold Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedColdDamageSpells2HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedColdDamageSpells2HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedColdDamageSpellsCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Icy"
+                ],
+                "Has stat text": [
+                    "Adds (7-9) to (13-15) [[Cold Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedColdDamageSpellsCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedColdDamageSpellsCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedColdDamageSpellsCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Frigid"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (19-22) [[Cold Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedColdDamageSpellsCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedColdDamageSpellsCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedFireDamageSpells2HCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Smoking"
+                ],
+                "Has stat text": [
+                    "Adds (11-14) to (22-25) [[Fire Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedFireDamageSpells2HCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedFireDamageSpells2HCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedFireDamageSpells2HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Burning"
+                ],
+                "Has stat text": [
+                    "Adds (16-21) to (31-36) [[Fire Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedFireDamageSpells2HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedFireDamageSpells2HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedFireDamageSpellsCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Smoking"
+                ],
+                "Has stat text": [
+                    "Adds (8-11) to (16-18) [[Fire Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedFireDamageSpellsCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedFireDamageSpellsCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedFireDamageSpellsCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Burning"
+                ],
+                "Has stat text": [
+                    "Adds (12-16) to (23-27) [[Fire Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedFireDamageSpellsCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedFireDamageSpellsCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedLightningDamageSpells2HCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Snapping"
+                ],
+                "Has stat text": [
+                    "Adds (1-3) to (41-43) [[Lightning Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedLightningDamageSpells2HCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedLightningDamageSpells2HCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedLightningDamageSpells2HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Crackling"
+                ],
+                "Has stat text": [
+                    "Adds (1-5) to (59-63) [[Lightning Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedLightningDamageSpells2HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedLightningDamageSpells2HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedLightningDamageSpellsCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Snapping"
+                ],
+                "Has stat text": [
+                    "Adds (1-3) to (27-29) [[Lightning Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedLightningDamageSpellsCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedLightningDamageSpellsCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterAddedLightningDamageSpellsCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Crackling"
+                ],
+                "Has stat text": [
+                    "Adds (1-4) to (39-42) [[Lightning Damage]] to [[Spell|Spells]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterAddedLightningDamageSpellsCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterAddedLightningDamageSpellsCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterChanceToFreezeCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Termpermental"
+                ],
+                "Has stat text": [
+                    "(6-10)% chance to [[Freeze]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterChanceToFreezeCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterChanceToFreezeCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterChanceToIgniteCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Termpermental"
+                ],
+                "Has stat text": [
+                    "(6-10)% chance to [[Ignite]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterChanceToIgniteCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterChanceToIgniteCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterChanceToShockCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Termpermental"
+                ],
+                "Has stat text": [
+                    "(6-10)% chance to [[Shock]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterChanceToShockCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterChanceToShockCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterColdLeechCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Wendigo's"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Cold Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterColdLeechCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterColdLeechCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterColdLeechPermyriadCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Wendigo's"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Cold Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterColdLeechPermyriadCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterColdLeechPermyriadCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterCurseDurationCrafted": {
+            "printouts": {
+                "Has name": [
+                    "of Hexing"
+                ],
+                "Has stat text": [
+                    "(30-50)% increased [[Curse]] Duration"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterCurseDurationCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterCurseDurationCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterFireLeechCrafted~": {
+            "printouts": {
+                "Has name": [
+                    "Cherufe's"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Fire Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterFireLeechCrafted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterFireLeechCrafted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterFireLeechPermyriadCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Cherufe's"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Fire Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterFireLeechPermyriadCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterFireLeechPermyriadCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedSpellDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Scholar's"
+                ],
+                "Has stat text": [
+                    "(25-34)% increased [[Spell Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedSpellDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedSpellDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedSpellDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Professor's"
+                ],
+                "Has stat text": [
+                    "(35-44)% increased [[Spell Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedSpellDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedSpellDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedSpellDamageStavesCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Scholar's"
+                ],
+                "Has stat text": [
+                    "(37-52)% increased [[Spell Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedSpellDamageStavesCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedSpellDamageStavesCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedSpellDamageStavesCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Professor's"
+                ],
+                "Has stat text": [
+                    "(53-68)% increased [[Spell Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedSpellDamageStavesCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedSpellDamageStavesCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterIncreasedZombiesCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Rotted"
+                ],
+                "Has stat text": [
+                    "+1 to maximum number of Zombies"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterIncreasedZombiesCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterIncreasedZombiesCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterLightningLeechCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Quetzacoatl's"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Lightning Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterLightningLeechCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterLightningLeechCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterLightningLeechPermyriadCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Quetzacoatl's"
+                ],
+                "Has stat text": [
+                    "0.2% of [[Lightning Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterLightningLeechPermyriadCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterLightningLeechPermyriadCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterManaCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Azure"
+                ],
+                "Has stat text": [
+                    "+(27-32) to maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterManaCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterManaCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterManaCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Cerulean"
+                ],
+                "Has stat text": [
+                    "+(35-44) to maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterManaCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterManaCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterMaximumSkeletonsCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Calcified"
+                ],
+                "Has stat text": [
+                    "2% increased Skeleton [[Attack Speed]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterMaximumSkeletonsCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterMaximumSkeletonsCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterMaximumSkeletonsCraftedUpdated": {
+            "printouts": {
+                "Has name": [
+                    "Calcified"
+                ],
+                "Has stat text": [
+                    "+1 to maximum number of Skeletons"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterMaximumSkeletonsCraftedUpdated",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterMaximumSkeletonsCraftedUpdated",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterMinionDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Savage"
+                ],
+                "Has stat text": [
+                    "[[Minion|Minions]] deal (10-15)% increased Damage"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterMinionDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterMinionDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:IntMasterMinionLifeCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Bloodied"
+                ],
+                "Has stat text": [
+                    "[[Minion|Minions]] have (10-15)% increased maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:IntMasterMinionLifeCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:IntMasterMinionLifeCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterDamageReflectedOnBlock1Crafted": {
+            "printouts": {
+                "Has name": [
+                    "Chastising"
+                ],
+                "Has stat text": [
+                    "Reflects (30-40) to (70-80) [[Physical Damage]] to Attackers on [[Block]]"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterDamageReflectedOnBlock1Crafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterDamageReflectedOnBlock1Crafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterDamageReflectedOnBlock2Crafted": {
+            "printouts": {
+                "Has name": [
+                    "Punishing"
+                ],
+                "Has stat text": [
+                    "Reflects (150-200) to (350-450) [[Physical Damage]] to Attackers on [[Block]]"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterDamageReflectedOnBlock2Crafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterDamageReflectedOnBlock2Crafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterDegenerationDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Draining"
+                ],
+                "Has stat text": [
+                    "(15-30)% increased Damage over Time"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterDegenerationDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterDegenerationDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterEnergyShieldRecoveryCooldownCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Hasty"
+                ],
+                "Has stat text": [
+                    "(10-20)% faster start of [[Energy Shield]] Recharge"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterEnergyShieldRecoveryCooldownCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterEnergyShieldRecoveryCooldownCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterFlaskChargeWhenCritCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Avenger's"
+                ],
+                "Has stat text": [
+                    "(20-30)% chance for Flasks to gain a [[Charge]] when you take a [[Critical Strike]]"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterFlaskChargeWhenCritCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterFlaskChargeWhenCritCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:PvPMasterReducedEnemyBlockChanceCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Ghostly"
+                ],
+                "Has stat text": [
+                    "(10-15)% reduced Enemy [[Block]] Chance"
+                ]
+            },
+            "fulltext": "Modifier:PvPMasterReducedEnemyBlockChanceCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:PvPMasterReducedEnemyBlockChanceCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMaster2HanderPhysicalDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Polished"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (20-25) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMaster2HanderPhysicalDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMaster2HanderPhysicalDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMaster2HanderPhysicalDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Honed"
+                ],
+                "Has stat text": [
+                    "Adds (14-18) to (26-31) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMaster2HanderPhysicalDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMaster2HanderPhysicalDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedColdDamage1HCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Icy"
+                ],
+                "Has stat text": [
+                    "Adds (8-11) to (16-19) [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedColdDamage1HCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedColdDamage1HCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedColdDamage1HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Frigid"
+                ],
+                "Has stat text": [
+                    "Adds (12-16) to (23-28) [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedColdDamage1HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedColdDamage1HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedColdDamage2HCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Icy"
+                ],
+                "Has stat text": [
+                    "Adds (13-17) to (24-28) [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedColdDamage2HCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedColdDamage2HCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedColdDamage2HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Frigid"
+                ],
+                "Has stat text": [
+                    "Adds (18-24) to (35-41) [[Cold Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedColdDamage2HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedColdDamage2HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedFireDamage1HCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Smoking"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (20-23) [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedFireDamage1HCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedFireDamage1HCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedFireDamage1HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Burning"
+                ],
+                "Has stat text": [
+                    "Adds (15-19) to (29-34) [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedFireDamage1HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedFireDamage1HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedFireDamage2HCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Smoking"
+                ],
+                "Has stat text": [
+                    "Adds (15-20) to (30-35) [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedFireDamage2HCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedFireDamage2HCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedFireDamage2HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Burning"
+                ],
+                "Has stat text": [
+                    "Adds (22-29) to (43-51) [[Fire Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedFireDamage2HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedFireDamage2HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedLightningDamage1HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Crackling"
+                ],
+                "Has stat text": [
+                    "Adds (1-4) to (50-52) [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedLightningDamage1HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedLightningDamage1HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedLightningDamage1HCrafted~": {
+            "printouts": {
+                "Has name": [
+                    "Snapping"
+                ],
+                "Has stat text": [
+                    "Adds (1-3) to (34-36) [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedLightningDamage1HCrafted~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedLightningDamage1HCrafted~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedLightningDamage2HCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Crackling"
+                ],
+                "Has stat text": [
+                    "Adds (3-6) to (70-79) [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedLightningDamage2HCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedLightningDamage2HCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterAddedLightningDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Snapping"
+                ],
+                "Has stat text": [
+                    "Adds (2-4) to (52-55) [[Lightning Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterAddedLightningDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterAddedLightningDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterBabyFacebreakersCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Brass-knuckle"
+                ],
+                "Has stat text": [
+                    "(450-600)% more Unarmed [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterBabyFacebreakersCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterBabyFacebreakersCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterBleedingCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Bloodletter's"
+                ],
+                "Has stat text": [
+                    "25% chance to cause Bleeding on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterBleedingCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterBleedingCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterBleedingCraftedUpdated": {
+            "printouts": {
+                "Has name": [
+                    "Bloodletter's"
+                ],
+                "Has stat text": [
+                    "25% chance to cause Bleeding on [[Hit]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterBleedingCraftedUpdated",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterBleedingCraftedUpdated",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterBlockWhileDualWieldingCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Interceptor's"
+                ],
+                "Has stat text": [
+                    "(2-5)% additional [[Block]] Chance while [[Dual Wield|Dual Wielding]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterBlockWhileDualWieldingCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterBlockWhileDualWieldingCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterIncreasedPhysicalCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Wicked"
+                ],
+                "Has stat text": [
+                    "(40-59)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterIncreasedPhysicalCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterIncreasedPhysicalCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterIncreasedPhysicalCrafted2~": {
+            "printouts": {
+                "Has name": [
+                    "Vicious"
+                ],
+                "Has stat text": [
+                    "(60-79)% increased [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterIncreasedPhysicalCrafted2~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterIncreasedPhysicalCrafted2~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLifeLeechCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Remora's"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLifeLeechCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLifeLeechCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLifeLeechCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Lamprey's"
+                ],
+                "Has stat text": [
+                    "(0.6-0.8)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLifeLeechCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLifeLeechCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLifeLeechPermyriadCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Remora's"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLifeLeechPermyriadCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLifeLeechPermyriadCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterLifeLeechPermyriadCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Lamprey's"
+                ],
+                "Has stat text": [
+                    "(0.6-0.8)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterLifeLeechPermyriadCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterLifeLeechPermyriadCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterManaLeechCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Thirsty"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterManaLeechCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterManaLeechCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterManaLeechPermyriadCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Thirsty"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterManaLeechPermyriadCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterManaLeechPermyriadCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterPhysicalAccuracyHybridCrafted1~": {
+            "printouts": {
+                "Has name": [
+                    "Journeyman's"
+                ],
+                "Has stat text": [
+                    "(30-39)% increased [[Physical Damage]]<br>+(15-40) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterPhysicalAccuracyHybridCrafted1~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterPhysicalAccuracyHybridCrafted1~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterPhysicalAccuracyHybridCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Reaver's"
+                ],
+                "Has stat text": [
+                    "(40-49)% increased [[Physical Damage]]<br>+(41-55) to [[Accuracy Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterPhysicalAccuracyHybridCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterPhysicalAccuracyHybridCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterPhysicalDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Polished"
+                ],
+                "Has stat text": [
+                    "Adds (7-9) to (14-17) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterPhysicalDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterPhysicalDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterPhysicalDamageCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Honed"
+                ],
+                "Has stat text": [
+                    "Adds (11-14) to (18-22) [[Physical Damage]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterPhysicalDamageCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterPhysicalDamageCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterSocketedGemsGetBloodMagicCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Hungering"
+                ],
+                "Has stat text": [
+                    "[[Item socket|Socketed]] Gems are Supported by [[Blood Magic Support|level 1 Blood Magic]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterSocketedGemsGetBloodMagicCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterSocketedGemsGetBloodMagicCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrDexMasterWeaponEleDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Catalyzing"
+                ],
+                "Has stat text": [
+                    "(8-22)% increased [[Elemental Damage]] with [[Attack]] [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:StrDexMasterWeaponEleDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrDexMasterWeaponEleDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterAddedChaosDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Corrupting"
+                ],
+                "Has stat text": [
+                    "Adds (8-11) to (18-23) [[Chaos Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterAddedChaosDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterAddedChaosDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterColdDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Freezing"
+                ],
+                "Has stat text": [
+                    "Adds (10-12) to (17-22) [[Cold Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterColdDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterColdDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCraftedArmourRatingPercent": {
+            "printouts": {
+                "Has name": [
+                    "Reinforcing"
+                ],
+                "Has stat text": [
+                    "(5-20)% increased [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCraftedArmourRatingPercent",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCraftedArmourRatingPercent",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCraftedEnergyShieldPercent": {
+            "printouts": {
+                "Has name": [
+                    "Fearless"
+                ],
+                "Has stat text": [
+                    "(5-20)% increased maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCraftedEnergyShieldPercent",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCraftedEnergyShieldPercent",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterCraftedEvasionRatingPercent": {
+            "printouts": {
+                "Has name": [
+                    "Blurring"
+                ],
+                "Has stat text": [
+                    "(5-20)% increased [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterCraftedEvasionRatingPercent",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterCraftedEvasionRatingPercent",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterEnergyShieldCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Glowing"
+                ],
+                "Has stat text": [
+                    "+(14-16) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterEnergyShieldCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterEnergyShieldCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterEnergyShieldCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Radiating"
+                ],
+                "Has stat text": [
+                    "+(17-20) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterEnergyShieldCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterEnergyShieldCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterEnergyShieldCrafted3": {
+            "printouts": {
+                "Has name": [
+                    "Pulsing"
+                ],
+                "Has stat text": [
+                    "+(21-23) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterEnergyShieldCrafted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterEnergyShieldCrafted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterFireDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Flaming"
+                ],
+                "Has stat text": [
+                    "Adds (10-13) to (20-26) [[Fire Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterFireDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterFireDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterLifeCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Healthy"
+                ],
+                "Has stat text": [
+                    "+(15-24) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterLifeCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterLifeCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterLifeCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Sanguine"
+                ],
+                "Has stat text": [
+                    "+(25-34) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterLifeCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterLifeCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterLifeCrafted3": {
+            "printouts": {
+                "Has name": [
+                    "Stalwart"
+                ],
+                "Has stat text": [
+                    "+(35-44) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterLifeCrafted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterLifeCrafted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterLightningDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Sparking"
+                ],
+                "Has stat text": [
+                    "Adds (1-4) to (36-39) [[Lightning Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterLightningDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterLightningDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterManaCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Beryl"
+                ],
+                "Has stat text": [
+                    "+(17-21) to maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterManaCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterManaCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterManaCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Cobalt"
+                ],
+                "Has stat text": [
+                    "+(22-26) to maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterManaCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterManaCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterManaCrafted3": {
+            "printouts": {
+                "Has name": [
+                    "Azure"
+                ],
+                "Has stat text": [
+                    "+(27-31) to maximum [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterManaCrafted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterManaCrafted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrIntMasterPhysicalDamageCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Polished"
+                ],
+                "Has stat text": [
+                    "Adds (3-5) to (7-9) [[Physical Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrIntMasterPhysicalDamageCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrIntMasterPhysicalDamageCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterArmourAndEnergyShieldPercentCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Ingrained"
+                ],
+                "Has stat text": [
+                    "(38-55)% increased [[Armour]] and [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterArmourAndEnergyShieldPercentCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterArmourAndEnergyShieldPercentCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterArmourAndEnergyShieldPercentCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Instilled"
+                ],
+                "Has stat text": [
+                    "(56-74)% increased [[Armour]] and [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterArmourAndEnergyShieldPercentCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterArmourAndEnergyShieldPercentCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterArmourAndEvasionPercentCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Brawler's"
+                ],
+                "Has stat text": [
+                    "(38-55)% increased [[Armour]] and [[Evasion]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterArmourAndEvasionPercentCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterArmourAndEvasionPercentCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterArmourAndEvasionPercentCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Fencer's"
+                ],
+                "Has stat text": [
+                    "(56-74)% increased [[Armour]] and [[Evasion]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterArmourAndEvasionPercentCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterArmourAndEvasionPercentCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterArmourPercentCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Layered"
+                ],
+                "Has stat text": [
+                    "(38-55)% increased [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterArmourPercentCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterArmourPercentCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterArmourPercentCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Lobstered"
+                ],
+                "Has stat text": [
+                    "(56-74)% increased [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterArmourPercentCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterArmourPercentCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterDamageReflection": {
+            "printouts": {
+                "Has name": [
+                    "Spiny"
+                ],
+                "Has stat text": [
+                    "Reflects (8-17) [[Physical Damage]] to Melee Attackers"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterDamageReflection",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterDamageReflection",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterEnergyShieldPercentCrafted1~": {
+            "printouts": {
+                "Has name": [
+                    "Strong-Willed"
+                ],
+                "Has stat text": [
+                    "(38-55)% increased [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterEnergyShieldPercentCrafted1~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterEnergyShieldPercentCrafted1~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterEnergyShieldPercentCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Resolute"
+                ],
+                "Has stat text": [
+                    "(56-74)% increased [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterEnergyShieldPercentCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterEnergyShieldPercentCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterEvasionAndEnergyShieldPercentCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Ethereal"
+                ],
+                "Has stat text": [
+                    "(38-55)% increased [[Evasion]] and [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterEvasionAndEnergyShieldPercentCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterEvasionAndEnergyShieldPercentCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterEvasionAndEnergyShieldPercentCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Unworldly"
+                ],
+                "Has stat text": [
+                    "(56-74)% increased [[Evasion]] and [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterEvasionAndEnergyShieldPercentCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterEvasionAndEnergyShieldPercentCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterEvasionPercentCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Ghost's"
+                ],
+                "Has stat text": [
+                    "(38-55)% increased [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterEvasionPercentCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterEvasionPercentCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterEvasionPercentCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Spectre's"
+                ],
+                "Has stat text": [
+                    "(56-74)% increased [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterEvasionPercentCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterEvasionPercentCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatArmourCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Studded"
+                ],
+                "Has stat text": [
+                    "+(25-50) to [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatArmourCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatArmourCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatArmourCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Ribbed"
+                ],
+                "Has stat text": [
+                    "+(51-80) to [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatArmourCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatArmourCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatArmourCraftedBodyArmour": {
+            "printouts": {
+                "Has name": [
+                    "Rename Me"
+                ],
+                "Has stat text": [
+                    "+(160-230) to [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatArmourCraftedBodyArmour",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatArmourCraftedBodyArmour",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatArmourCraftedGlovesBoots": {
+            "printouts": {
+                "Has name": [
+                    "Studded"
+                ],
+                "Has stat text": [
+                    "+(23-48) to [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatArmourCraftedGlovesBoots",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatArmourCraftedGlovesBoots",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatArmourCraftedHelmet": {
+            "printouts": {
+                "Has name": [
+                    "Ribbed"
+                ],
+                "Has stat text": [
+                    "+(49-80) to [[Armour]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatArmourCraftedHelmet",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatArmourCraftedHelmet",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEnergyShieldCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Glowing"
+                ],
+                "Has stat text": [
+                    "+(14-17) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEnergyShieldCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEnergyShieldCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEnergyShieldCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Radiating"
+                ],
+                "Has stat text": [
+                    "+(18-22) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEnergyShieldCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEnergyShieldCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEnergyShieldCraftedBodyArmour": {
+            "printouts": {
+                "Has name": [
+                    "Pulsing"
+                ],
+                "Has stat text": [
+                    "+(56-69) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEnergyShieldCraftedBodyArmour",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEnergyShieldCraftedBodyArmour",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEnergyShieldCraftedGlovesBoots": {
+            "printouts": {
+                "Has name": [
+                    "Glowing"
+                ],
+                "Has stat text": [
+                    "+(27-34) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEnergyShieldCraftedGlovesBoots",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEnergyShieldCraftedGlovesBoots",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEnergyShieldCraftedHelmet": {
+            "printouts": {
+                "Has name": [
+                    "Radiating"
+                ],
+                "Has stat text": [
+                    "+(35-45) to maximum [[Energy Shield]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEnergyShieldCraftedHelmet",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEnergyShieldCraftedHelmet",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEvasionCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Dancer's"
+                ],
+                "Has stat text": [
+                    "+(25-50) to [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEvasionCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEvasionCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEvasionCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Acrobat's"
+                ],
+                "Has stat text": [
+                    "+(51-80) to [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEvasionCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEvasionCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEvasionCraftedBodyArmour": {
+            "printouts": {
+                "Has name": [
+                    "Fleet"
+                ],
+                "Has stat text": [
+                    "+(160-230) to [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEvasionCraftedBodyArmour",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEvasionCraftedBodyArmour",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEvasionCraftedGlovesBoots": {
+            "printouts": {
+                "Has name": [
+                    "Dancer's"
+                ],
+                "Has stat text": [
+                    "+(23-48) to [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEvasionCraftedGlovesBoots",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEvasionCraftedGlovesBoots",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterFlatEvasionCraftedHelmet": {
+            "printouts": {
+                "Has name": [
+                    "Acrobat's"
+                ],
+                "Has stat text": [
+                    "+(49-80) to [[Evasion Rating]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterFlatEvasionCraftedHelmet",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterFlatEvasionCraftedHelmet",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterItemDropsOnGuardianDeathCrafted": {
+            "printouts": {
+                "Has name": [
+                    "Eternal"
+                ],
+                "Has stat text": [
+                    "Item drops on Death if equipped by an [[Animate Guardian|Animated Guardian]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterItemDropsOnGuardianDeathCrafted",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterItemDropsOnGuardianDeathCrafted",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterLifeCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Stalwart"
+                ],
+                "Has stat text": [
+                    "+(35-44) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterLifeCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterLifeCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterLifeCrafted2": {
+            "printouts": {
+                "Has name": [
+                    "Stout"
+                ],
+                "Has stat text": [
+                    "+(45-54) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterLifeCrafted2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterLifeCrafted2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterLifeCrafted3": {
+            "printouts": {
+                "Has name": [
+                    "Robust"
+                ],
+                "Has stat text": [
+                    "+(55-64) to maximum [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterLifeCrafted3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterLifeCrafted3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterLifeLeechCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Remora's"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterLifeLeechCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterLifeLeechCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterLifeLeechPermyriadCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Remora's"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Life]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterLifeLeechPermyriadCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterLifeLeechPermyriadCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterManaLeechCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Thirsty"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterManaLeechCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterManaLeechCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterManaLeechPermyriadCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Thirsty"
+                ],
+                "Has stat text": [
+                    "(0.2-0.4)% of Physical [[Attack Damage]] Leeched as [[Mana]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterManaLeechPermyriadCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterManaLeechPermyriadCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterPhysicalDamageCrafted1": {
+            "printouts": {
+                "Has name": [
+                    "Glinting"
+                ],
+                "Has stat text": [
+                    "Adds (3-4) to (6-7) [[Physical Damage]] to [[Attack|Attacks]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterPhysicalDamageCrafted1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterPhysicalDamageCrafted1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:StrMasterWeaponElementalDamageCrafted1~": {
+            "printouts": {
+                "Has name": [
+                    "Catalyzing"
+                ],
+                "Has stat text": [
+                    "(4-12)% increased [[Elemental Damage]] with [[Attack]] [[Skill|Skills]]"
+                ]
+            },
+            "fulltext": "Modifier:StrMasterWeaponElementalDamageCrafted1~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:StrMasterWeaponElementalDamageCrafted1~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 154
+}

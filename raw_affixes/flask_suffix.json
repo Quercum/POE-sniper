@@ -1,0 +1,273 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:FlaskBuffArmourWhileHealing1": {
+            "printouts": {
+                "Has name": [
+                    "of Iron Skin"
+                ],
+                "Has stat text": [
+                    "(60-100)% increased [[Armour]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffArmourWhileHealing1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffArmourWhileHealing1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffEvasionWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Reflexes"
+                ],
+                "Has stat text": [
+                    "(60-100)% increased [[Evasion Rating]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffEvasionWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffEvasionWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffKnockbackWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Fending"
+                ],
+                "Has stat text": [
+                    "Adds Knockback to Melee [[Attack|Attacks]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffKnockbackWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffKnockbackWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffLifeLeechPermyriadWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Gluttony"
+                ],
+                "Has stat text": [
+                    "0.4% of Physical [[Attack Damage]] Leeched as [[Life]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffLifeLeechPermyriadWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffLifeLeechPermyriadWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffLifeLeechWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Gluttony"
+                ],
+                "Has stat text": [
+                    "0.4% of Physical [[Attack Damage]] Leeched as [[Life]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffLifeLeechWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffLifeLeechWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffManaLeechPermyriadWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Craving"
+                ],
+                "Has stat text": [
+                    "0.4% of Physical [[Attack Damage]] Leeched as [[Mana]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffManaLeechPermyriadWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffManaLeechPermyriadWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffMovementSpeedWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Adrenaline"
+                ],
+                "Has stat text": [
+                    "(20-30)% increased [[Movement Speed]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffMovementSpeedWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffMovementSpeedWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffResistancesWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Resistance"
+                ],
+                "Has stat text": [
+                    "(20-30)% additional [[Elemental Resistance|Elemental Resistances]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffResistancesWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffResistancesWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffStunRecoveryWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Steadiness"
+                ],
+                "Has stat text": [
+                    "(40-60)% increased [[Block]] and Stun Recovery during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffStunRecoveryWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffStunRecoveryWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskCurseImmunity1": {
+            "printouts": {
+                "Has name": [
+                    "of Warding"
+                ],
+                "Has stat text": [
+                    "Immune to [[Curse|Curses]] during Flask effect<br>Removes [[Curse|Curses]] on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskCurseImmunity1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskCurseImmunity1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskDispellsBurning1": {
+            "printouts": {
+                "Has name": [
+                    "of Dousing"
+                ],
+                "Has stat text": [
+                    "Immunity to [[Ignite]] during Flask effect<br>Removes Burning on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskDispellsBurning1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskDispellsBurning1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskDispellsChill1": {
+            "printouts": {
+                "Has name": [
+                    "of Heat"
+                ],
+                "Has stat text": [
+                    "Immunity to [[Freeze]] and Chill during Flask effect<br>Removes [[Freeze]] and Chill on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskDispellsChill1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskDispellsChill1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskDispellsPoison1": {
+            "printouts": {
+                "Has name": [
+                    "of Curing"
+                ],
+                "Has stat text": [
+                    "Immune to [[Poison]] during Flask Effect<br>Removes [[Poison]] on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskDispellsPoison1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskDispellsPoison1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskHealsMinions1": {
+            "printouts": {
+                "Has name": [
+                    "of Animation"
+                ],
+                "Has stat text": [
+                    "Grants (40-60)% of [[Life]] Recovery to [[Minion|Minions]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskHealsMinions1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskHealsMinions1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskRemovesBleeding1": {
+            "printouts": {
+                "Has name": [
+                    "of Staunching"
+                ],
+                "Has stat text": [
+                    "Immunity to Bleeding during Flask effect<br>Removes Bleeding on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskRemovesBleeding1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskRemovesBleeding1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskRemovesShock1": {
+            "printouts": {
+                "Has name": [
+                    "of Grounding"
+                ],
+                "Has stat text": [
+                    "Immunity to [[Shock]] during Flask effect<br>Removes [[Shock]] on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskRemovesShock1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskRemovesShock1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 16
+}

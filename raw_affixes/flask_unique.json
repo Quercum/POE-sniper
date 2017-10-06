@@ -1,0 +1,639 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        },
+        {
+            "label": "Has name",
+            "key": "Has_name",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        },
+        {
+            "label": "Has stat text",
+            "key": "Has_stat_text",
+            "redi": "",
+            "typeid": "_txt",
+            "mode": 1,
+            "format": ""
+        }
+    ],
+    "results": {
+        "Modifier:FlaskBuffManaLeechWhileHealing": {
+            "printouts": {
+                "Has name": [
+                    "of Craving"
+                ],
+                "Has stat text": [
+                    "0.4% of Physical [[Attack Damage]] Leeched as [[Mana]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffManaLeechWhileHealing",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffManaLeechWhileHealing",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskBuffMovementSpeedWhileHealingUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-30)% increased [[Movement Speed]] during Flask effect"
+                ]
+            },
+            "fulltext": "Modifier:FlaskBuffMovementSpeedWhileHealingUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskBuffMovementSpeedWhileHealingUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChanceRechargeOnCritUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "50% chance to gain a Flask [[Charge]] when you deal a [[Critical Strike]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChanceRechargeOnCritUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChanceRechargeOnCritUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesAddedIncreasePercentUnique~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "100% increased [[Charge]] Recovery"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesAddedIncreasePercentUnique~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesAddedIncreasePercentUnique~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesUsedUnique~~3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "50% increased [[Charge|Charges]] used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesUsedUnique~~3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesUsedUnique~~3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesUsedUnique~~4": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "50% increased [[Charge|Charges]] used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesUsedUnique~~4",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesUsedUnique~~4",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesUsedUnique~~5": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(-10-10)% increased [[Charge|Charges]] used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesUsedUnique~~5",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesUsedUnique~~5",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesUsedUnique ~~ ~~ 1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "500% increased [[Charge|Charges]] used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesUsedUnique ~~ ~~ 1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesUsedUnique_~~_~~_1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskChargesUsedUnique ~~ ~~ 2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(80-100)% increased [[Charge|Charges]] used"
+                ]
+            },
+            "fulltext": "Modifier:FlaskChargesUsedUnique ~~ ~~ 2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskChargesUsedUnique_~~_~~_2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskCurseImmunityUnique ~~ ~~ 1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Immune to [[Curse|Curses]] during Flask effect<br>Removes [[Curse|Curses]] on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskCurseImmunityUnique ~~ ~~ 1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskCurseImmunityUnique_~~_~~_1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskDispellsBurningUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Immunity to [[Ignite]] during Flask effect<br>Removes Burning on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskDispellsBurningUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskDispellsBurningUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskEffectDurationUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(25-50)% increased Duration"
+                ]
+            },
+            "fulltext": "Modifier:FlaskEffectDurationUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskEffectDurationUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskEffectDurationUnique~~2": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "60% reduced Duration"
+                ]
+            },
+            "fulltext": "Modifier:FlaskEffectDurationUnique~~2",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskEffectDurationUnique~~2",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskEffectDurationUnique~~3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "50% increased Duration"
+                ]
+            },
+            "fulltext": "Modifier:FlaskEffectDurationUnique~~3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskEffectDurationUnique~~3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskEffectDurationUnique~~4": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "100% increased Duration"
+                ]
+            },
+            "fulltext": "Modifier:FlaskEffectDurationUnique~~4",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskEffectDurationUnique~~4",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskElementalDamageTakenOfLowestResistUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "During Flask Effect, 10% reduced Damage taken of each Element for which your Uncapped [[Elemental Resistance]] is lowest"
+                ]
+            },
+            "fulltext": "Modifier:FlaskElementalDamageTakenOfLowestResistUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskElementalDamageTakenOfLowestResistUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskElementalPenetrationOfHighestResistUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "During Flask Effect, Damage Penetrates (10-15)% Resistance of each Element for which your Uncapped [[Elemental Resistance]] is highest"
+                ]
+            },
+            "fulltext": "Modifier:FlaskElementalPenetrationOfHighestResistUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskElementalPenetrationOfHighestResistUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskExtraChargesUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "+45 to Maximum [[Charge|Charges]]"
+                ]
+            },
+            "fulltext": "Modifier:FlaskExtraChargesUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskExtraChargesUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskExtraLifeUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "100% increased [[Life]] Recovered"
+                ]
+            },
+            "fulltext": "Modifier:FlaskExtraLifeUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskExtraLifeUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskFreezeImmunityUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Immunity to [[Freeze]] and Chill during Flask effect<br>Removes [[Freeze]] and Chill on use"
+                ]
+            },
+            "fulltext": "Modifier:FlaskFreezeImmunityUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskFreezeImmunityUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskFullInstantRecoveryUnique~~1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "Instant Recovery<br>(75-65)% reduced Amount Recovered"
+                ]
+            },
+            "fulltext": "Modifier:FlaskFullInstantRecoveryUnique~~1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskFullInstantRecoveryUnique~~1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedDuration1": {
+            "printouts": {
+                "Has name": [
+                    "Saturated"
+                ],
+                "Has stat text": [
+                    "33% reduced Recovery Speed"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedDuration1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedDuration1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedDurationUnique1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(10-20)% increased Duration"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedDurationUnique1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedDurationUnique1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedRecoveryAmountUniqueFlask4": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(30-50)% increased Amount Recovered<br>100% increased Recovery Speed"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedRecoveryAmountUniqueFlask4",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedRecoveryAmountUniqueFlask4",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedRecoverySpeedUniqueFlask3": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(5-20)% increased Recovery Speed"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedRecoverySpeedUniqueFlask3",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedRecoverySpeedUniqueFlask3",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskIncreasedRecoverySpeedUnique ~~ ~~ 1": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": [
+                    "(80-120)% increased Recovery Speed"
+                ]
+            },
+            "fulltext": "Modifier:FlaskIncreasedRecoverySpeedUnique ~~ ~~ 1",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskIncreasedRecoverySpeedUnique_~~_~~_1",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskKnockforward": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskKnockforward",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskKnockforward",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement10": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement10",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement10",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement14": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement14",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement14",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement14Real~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement14Real~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement14Real~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement18": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement18",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement18",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement20": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement20",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement20",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement22": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement22",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement22",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement26": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement26",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement26",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement27": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement27",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement27",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement30": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement30",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement30",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement34": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement34",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement34",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement35~": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement35~",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement35~",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement37": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement37",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement37",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement40": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement40",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement40",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement45": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement45",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement45",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement50": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement50",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement50",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement53": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement53",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement53",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement60": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement60",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement60",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement65": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement65",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement65",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement7": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement7",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement7",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement70": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement70",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement70",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirement8": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirement8",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirement8",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirementHybrid60": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirementHybrid60",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirementHybrid60",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        },
+        "Modifier:FlaskLevelRequirementUtilityResists": {
+            "printouts": {
+                "Has name": [],
+                "Has stat text": []
+            },
+            "fulltext": "Modifier:FlaskLevelRequirementUtilityResists",
+            "fullurl": "https://pathofexile.gamepedia.com/Modifier:FlaskLevelRequirementUtilityResists",
+            "namespace": 10004,
+            "exists": "1",
+            "displaytitle": ""
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 50
+}
