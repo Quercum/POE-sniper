@@ -1,0 +1,44 @@
+ var json_armr_craft_sufx_url = "https://pathofexile.gamepedia.com/Special:Ask/mainlabel%3D/format%3Djson/link%3Dnone/default%3D/template%3DSMW-20mod-20table/userparam%3Dextra-5Frows%3D2,-20effect-5Frowid%3D2,-20show-5Ftags%3Dno/introtemplate%3DSMW-20mod-20table-2Fshared-2Fintro-20without-20weight/outrotemplate%3DSMW-20mod-20table-2Foutro/order%3DASC/sort%3DIs-5Fmod/offset%3D0/limit%3D500/-5B-5BIs-20mod::~*-5D-5D-20-5B-5BHas-20mod-20generation-20type::2-5D-5D-20-5B-5BHas-20mod-20domain::10-5D-5D/-3FHas-20name/-3FHas-20stat-20text/prettyprint%3Dtrue/unescape%3Dtrue/searchlabel%3DJSON";
+    GM_xmlhttpRequest
+        (
+            {
+                method: "GET",
+                url: json_armr_craft_sufx_url,
+                onload: function(response)
+                {
+                    //console.log(response.responseText);
+                    var parsedJSON = JSON.parse(response.responseText);
+                    //console.log(parsedJSON);
+                    var affixarray;
+                    for(var temp in parsedJSON.results)
+                    {
+                        var i = 0;
+                        var affix = parsedJSON.results[temp];
+                        //console.log(affix);
+                        if(affix.hasOwnProperty("printouts") && affix["printouts"].hasOwnProperty("Has stat text"))
+                        {
+                            var rawaffix = affix["printouts"]["Has stat text"][0];
+                            //console.log(rawaffix);
+                            //still needs some work, tried to capture word differences, might be too hard - died to octal warnings anyhow
+                            // i.e. freeze/frozen in affix: (20-25)% chance to Avoid being [[Freeze|Frozen]]
+                            //rawaffix = rawaffix.replace(new RegExp('\[\[([A-Za-z\s]+)(?=\|)\|\1(.*)\]\]', 'g'), '$1\($2\)');
+
+                            //always favors second phrase (frozen over freeze)
+                            rawaffix = rawaffix.replace(new RegExp('\\[\\[([A-Za-z\\s]+)(?=\\|)\\|(.*)\\]\\]', 'g'), '$2');
+                            rawaffix = rawaffix.replace(new RegExp('\\d', 'g'), '#');
+                            rawaffix = rawaffix.replace(new RegExp('\\[', 'g'), '');
+                            rawaffix = rawaffix.replace(new RegExp('\\]', 'g'), '');
+                            rawaffix = rawaffix.replace(new RegExp('\\(', 'g'), '');
+                            rawaffix = rawaffix.replace(new RegExp('\\)', 'g'), '');
+                            rawaffix = rawaffix.replace(new RegExp('##', 'g'), '#');
+                            rawaffix = rawaffix.replace(new RegExp('#-#', 'g'), '#');
+                            console.log(rawaffix);
+                        }
+                        else
+                        {
+                            console.log("unhandeled error");
+                        }
+                    }
+                }
+            }
+        );
